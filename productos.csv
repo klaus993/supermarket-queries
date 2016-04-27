@@ -67,7 +67,7 @@ id,nombre
 66,Galletitas dulces trio variette paq 500 grm
 67,Galletitas rellenas tentacion mousse chocolate paq 85 grm
 68,Pepas brevis paq 400 grm
-69,Galletas la bizantina avena, lino y chia paq 180 grm
+69,Galletas la bizantina avena lino y chia paq 180 grm
 70,Galletitas de avena c/chocolat cereal mix paq 180 grm
 71,Galletitas rellenas pepitos vainilla paq 128 grm
 72,Galletitas rellenas oreo golden paq 333 grm
@@ -213,7 +213,7 @@ id,nombre
 212,Oblea rellena bauducco chocolate paq 100 grm
 213,Oblea rellena opera paq 55 grm
 214,Galletitas crackers media tarde paq 110 grm
-215,Galletita de cereal cereal mix aventa, frutilla paq 230 grm
+215,Galletita de cereal cereal mix aventa frutilla paq 230 grm
 216,Galletitas dulces soriano hojaldre triangulo paq 200 grm
 217,Galletitas rellenas polvorita choc c/vainilla paq 150 grm
 218,Galletitas dulces arcor pepas recetas d/abuela paq 200 grm
@@ -417,7 +417,7 @@ id,nombre
 416,Cafe molido coto paq 500 grm
 417,Yerba mate union con palo origen con paq 1000 grm
 418,Cafe soluble nescafe dolca latte fra 160 grm
-419,Te celestial s. manzanilla, miel y vainilla cja 10 saq
+419,Te celestial s. manzanilla miel y vainilla cja 10 saq
 420,Capuccino la virginia espuma de vainilla fra 155 grm
 421,Cafe soluble nescafe dolca cappuccino fra 150 grm
 422,Te delhi tea chocolate temptation est 20 sob
@@ -453,7 +453,7 @@ id,nombre
 452,Te celestial s. moras silvestres cja 10 saq
 453,Te coto premium 25 saq cja 50 grm
 454,Yerba mate cbse hierbas cuyanas paq 500 grm
-455,Te rooibos, fruta delhi tea est 20 sob
+455,Te rooibos fruta delhi tea est 20 sob
 456,Te la virginia molienda controlada est 25 saq 50 grm
 457,Yerba mate cachamai tilo paq 500 grm
 458,Te taragui blend especial cja 75 saq
@@ -486,7 +486,7 @@ id,nombre
 485,Te taragui  boldo hierbas silvestre cja 50 uni 50 grm
 486,Yerba mate rosamonte especial paq 1 kgm
 487,Yerba mate cbse frutos del valle paq 500 grm
-488,Te chamana hier rooibos,can, jeng,cirue,higo ens est 15 saq
+488,Te chamana hier rooiboscan jengciruehigo ens est 15 saq
 489,Mate cocido crysf est 25 saq
 490,Cafe instantaneo la virginia granulado fra 100 grm
 491,Te la virginia molienda controlada est 50 saq 100 grm
@@ -572,7 +572,7 @@ id,nombre
 571,Cafe instantaneo la virginia kalma descafeinado fra100 grm
 572,Te twinings lemon twist est 25 saq
 573,Yerba mate playadito paq 500 grm
-574,Te patagonia finest tilo, melisa, verde y nar est 20 saq
+574,Te patagonia finest tilo melisa verde y nar est 20 saq
 575,Capsulas cacao chococino nescafe dolce gusto cja 270grm
 576,Cacao nesquik con cereal bsa 300 grm
 577,Yerba mate taragui 500 grm  + mate de vidrio bli 2 uni
@@ -807,7 +807,7 @@ id,nombre
 806,Te indian chai delhi tea cja 40 grm
 807,Filtro papel la virginia nº4 est 40 uni
 808,Chocolate para taza suchard tab 105 grm
-809,Te chamana hierb cedron,mand y manzanilla ensob est 15 saq
+809,Te chamana hierb cedronmand y manzanilla ensob est 15 saq
 810,Te crysf est 25 saq
 811,Te taragui placeres frutas rojas est 20 saq
 812,Te cachamai tilo est 20 saq
@@ -2092,7 +2092,7 @@ id,nombre
 2091,Edulcorante equalsweet stevia bot 200 cmq
 2092,Edulcorante sucaryl pastillas sucralosa partillero bli 100 u
 2093,Edulcorante hileret sweet en sobres cja 200 sob
-2094,Edulcorante equalsweet fra 64,8 grm
+2094,Edulcorante equalsweet fra 648 grm
 2095,Edulcorante sucaryl liquido sucralosa liquido bot 180 ml
 2096,Azucar chango organica est 1 kg
 2097,Edulcorante hileret 1 a 10  clasico cja 200 sob 160 grm
@@ -2123,7 +2123,7 @@ id,nombre
 2122,Aceite oliva olikids extra virgen  lat 500 ml
 2123,Aceite oliva indalo extra virgen bot 500 ml
 2124,Aceite oliva nucete puro lat 500 cc
-2125,Aceite girasol cocinero bot 1,5 ltr
+2125,Aceite girasol cocinero bot 15 ltr
 2126,Aceite  mezcla cocinero blend girasol soja  bot 1.5 ltr
 2127,Aceite oliva indalo extra virgen especial bot 500 ml
 2128,Aceite oliva oliovita extra virgen clasico bot 500 cc
@@ -2136,7 +2136,7 @@ id,nombre
 2135,Aceite mezcla copisi girasol y oliva  pet 900 ml
 2136,Aceite oliva costa de oro extra virgen bot 500 ml
 2137,Aceite oliva lira extra virgen extra suave lat 500 cc
-2138,Aceite girasol cañuelas bot 1,5 ltr
+2138,Aceite girasol cañuelas bot 15 ltr
 2139,Aceite oliva nucete extra virgen bot 500 cc
 2140,Aceite mezcla cada dia pet 900 cmq
 2141,Aceite oliva ciudad del lago extra virgen bot 500 ml
@@ -2156,7 +2156,7 @@ id,nombre
 2155,Aceite de canola coto virgen bot 500 ml
 2156,Aceite oliva mazola virgen lat 500 cc
 2157,Aceite mezcla ideal bot 900 ml
-2158,Aceite girasol legitimo bot 1,5 ltr
+2158,Aceite girasol legitimo bot 15 ltr
 2159,Aceite oliva natura  extra virgen cja.500 ml
 2160,Aceite mezcla natura girasol y oliva blend bot 900 ml
 2161,Aceite oliva alta via extra virgen bot 500 cc
@@ -2617,7 +2617,7 @@ id,nombre
 2616,Turron paulista de mani paq 300 grm
 2617,Trufa con caramelo stabz cja 100 grm
 2618,Torta bariloche de almendras imperial est 150 grm
-2619,Caramelos menthoplus acidos de cereza paq 27,2 grm
+2619,Caramelos menthoplus acidos de cereza paq 272 grm
 2620,Turron georgalos de mani soft sin frutas cja 90 grm
 2621,Caramelos mogul masticables bsa 150 grm
 2622,Tableta dulce de leche light vauquita bsa 88 grm
@@ -2864,7 +2864,7 @@ id,nombre
 2863,Caramelos lipo acidos bol 150 grm
 2864,Chocolate cofler chocolate bli 100 grm
 2865,Caramelos arcor masticables frutales bol 800 grm
-2866,Caramelos menthoplus acidos de naranja paq 27,2 grm
+2866,Caramelos menthoplus acidos de naranja paq 272 grm
 2867,Gomitas tembleke surtido paq 64 grm
 2868,Chupetin lipo wamis magico bol 453 grm
 2869,Caramelos skittles original paq 61.5 grm
@@ -2925,7 +2925,7 @@ id,nombre
 2924,Alfajor del turista mousse chocolate cja 360 grm
 2925,Oblea kit kat chocolate bli 45 grm
 2926,Alfajor cachafaz mousse choc c/leche est 300 grm
-2927,Caramelos confitados sweet tar cja 141,7 grm
+2927,Caramelos confitados sweet tar cja 1417 grm
 2928,Alfajor terrabusi brownie bli 6 uni
 2929,Chocolate biznikke con mani tab 120 grm
 2930,Crocante oklahoma de mani paq 100 grm
@@ -3248,7 +3248,7 @@ id,nombre
 3247,Pure de papas maggi instantane finas hierbas est 150 grm
 3248,Sazonador alicante carne sob 40 grm
 3249,Sopa maggi instantanea espinaca a la crema sob 17 grm
-3250,Caldo knorr diet granulado de verdura s/sal 5 u est 22,5 grm
+3250,Caldo knorr diet granulado de verdura s/sal 5 u est 225 grm
 3251,Sopa knorr casera gallina y fideos c/ carac sob 88.5 grm
 3252,Sopa alicante crema arvejas con jamon sob 69 grm
 3253,Sopa knorr crema light zapallo sob 33 grm
@@ -3398,7 +3398,7 @@ id,nombre
 3397,Nachos antojitos cheddar bsa 110 grm
 3398,Papas fritas saladix piri piri bsa 36 grm
 3399,Nachos antojitos original cja 150 grm
-3400,Rods pretzels snyders bsa 340,19 grm
+3400,Rods pretzels snyders bsa 34019 grm
 3401,Pochoclos marlons dulces est 95 grm
 3402,Papas fritas lay`s crema y cebolla paq 103 grm
 3403,Snacks arrocitas mini finas hierbas paq 42 grm
@@ -4978,7 +4978,7 @@ id,nombre
 4977,Mani postrefino pelado salado tostado paq 125 grm
 4978,Nuez blancanuez sin cascara bol 100 grm
 4979,Pasas de uva la parmesana sin semilla bol 250 grm
-4980,Mani, almendras y castañas postrefino tost y sal paq 100g
+4980,Mani almendras y castañas postrefino tost y sal paq 100g
 4981,Almendras postrefino peladas paq 100 grm
 4982,Higo aldeva blanco elegido bli 250 grm
 4983,Almendra postrefino peladas tostadas saladas paq 100 grm
@@ -5888,7 +5888,7 @@ id,nombre
 5887,Lomo curado embuchado lourisierra x kg
 5888,Queso de vaca tipo brie cabaña piedras blancas x kg
 5889,Gruyerito veronica x kg
-5890,Queso pimentino ahumado canut, x kg
+5890,Queso pimentino ahumado canut x kg
 5891,Dulce de batata con chocolate esnaola cja 1 kgm
 5892,Queso en hebras quesabores y listo provo/pateg paq 150 grm
 5893,Jamon cocido genuin feteado cagnoli x kg
@@ -6725,7 +6725,7 @@ id,nombre
 6724,Sorrentinos capresse coto x 2 pl
 6725,Tap. pasc. con semillas 400 grs delicias doradas
 6726,Tapa p/pascualina yuli hojaldre bsa 2 uni 500 grm
-6727,Tapa pasc ind, favaloro light 140 grs delicias doradas
+6727,Tapa pasc ind favaloro light 140 grs delicias doradas
 6728,Tap. empanada horno 330 grs delicias doradas
 6729,Tapa p/copetin la salteña vitam. b bli 380 grm
 6730,Ñoquis papa la salteña mas papa bli 500 grm
@@ -8053,7 +8053,7 @@ id,nombre
 8052,Detergente ropa woolite ropa oscura bot 1 ltr
 8053,Jabon liquido matic camellito doy 900 ml
 8054,Jabon liquido zorro clasico doy 3 lt
-8055,Detergente ropa zorro 3d clasico doy 1,5 ltr
+8055,Detergente ropa zorro 3d clasico doy 15 ltr
 8056,Jabon liquido woolite extra blanco bot 1 lt
 8057,Jabon liquido ecovita ropa fina bot 450 ml
 8058,Jabon liquido ariel pods 3/1 57 uni
@@ -8092,7 +8092,7 @@ id,nombre
 8091,Jabon liquido drive matic doy 3 ltr
 8092,Jabon liquido ariel pouch doy 3 lt
 8093,Jabon liquido ecovita biodegrad baja espuma bot 3 lt
-8094,Detergente ropa zorro 3d c/suavizante doy 1,5 ltr
+8094,Detergente ropa zorro 3d c/suavizante doy 15 ltr
 8095,Detergente ropa ace bot 800 ml
 8096,Detergente ropa woolite seda y lana bot 450 ml
 8097,Jabon liquido ecovita biodeg baja espuma bot 1.5 lt
@@ -8802,7 +8802,7 @@ id,nombre
 8801,Cepillo aplicador wassington natural 1 uni
 8802,Cepillo para calzado zingara negro premium 1 uni
 8803,Pomada wassington negra liquida bot 60 cc
-8804,Cordones rex blanco 1,2 bli 2 uni
+8804,Cordones rex blanco 12 bli 2 uni
 8805,Pomada wassington marron lat 60 grm
 8806,Crema autobrillo wassington negra pom 50 cc
 8807,Esponja brillo calzado wassington marron paq 1 uni
@@ -8812,10 +8812,10 @@ id,nombre
 8811,Lavazapatillas wassington bactericida bot 350 cc
 8812,Pomada wassington incolora liquida bot 60 cc
 8813,Plantilla toalla wassington bol 2 uni
-8814,Cordones rex negro 1,2 bli 2 uni
+8814,Cordones rex negro 12 bli 2 uni
 8815,Pomada wassington marron liquida bot 60 cc
 8816,Plantilla antimicotica wassington bol 2 uni
-8817,Cordones rex negro 0,9 bli 2 uni
+8817,Cordones rex negro 09 bli 2 uni
 8818,Renovador wassington gamuza y nobuck c/pincel bot 80 cc
 8819,Cepillo lustrador wassington natural 1 uni
 8820,Esponja brillo calzado wassington negro paq 1 uni
@@ -8823,19 +8823,19 @@ id,nombre
 8822,Brillo para cuero wassington super brillo aer 100 grm
 8823,Crema para calzado cuero blanca wassington lat 39 grm
 8824,Talco wassington antibacterial bot 120 grm
-8825,Cordones rex marron 0,6 bli 2 uni
+8825,Cordones rex marron 06 bli 2 uni
 8826,Tinta para cuero fix marron bot 80 ml
 8827,Cepillo p/ calzado wassington simil cuero negro 1 uni
 8828,Renovador wassington marron gam y nobuck c/pincel bot 80cc
 8829,Pomada wassington negra premium lat 37 cc
 8830,Protector wassington gamuza  nobuck aer 180 cc
-8831,Cordones rex blanco 0,9 bli 2 uni
+8831,Cordones rex blanco 09 bli 2 uni
 8832,Crema autobrillo wassington marron pom 50 cc
 8833,Pomada wassington marron premium lat 37 cc
 8834,Aplicador de pomada wassington bli 2 uni
 8835,Revividor calzado wassington gamu/nobu incoloro aer 180 cc
 8836,Pomada wassington blanca liquida bot 60 cc
-8837,Cordones rex negro 0,6 bli 2 uni
+8837,Cordones rex negro 06 bli 2 uni
 8838,Tinta para cuero fix negro bot 80 cc
 8839,Pomada wassington incolora lat 60 cc
 8840,Pomada wassington marron premium lat 65 grm
@@ -8971,10 +8971,10 @@ id,nombre
 8970,Amargo terma cuyano cero bot 1.350 lt
 8971,Amrgo terma patagónico bot 1.350 lt
 8972,Amargo terma pomelo bot 1.350 lt
-8973,Agua sin gas mineral kin bot 1,5 ltr
+8973,Agua sin gas mineral kin bot 15 ltr
 8974,Jugo light clight mango sob 6 grm
-8975,Gaseosa coca cola zero bot 2,25 ltr
-8976,Jugo concentrado mocoreta diet naranja bot 1,5 ltr
+8975,Gaseosa coca cola zero bot 225 ltr
+8976,Jugo concentrado mocoreta diet naranja bot 15 ltr
 8977,Gaseosa sprite lima limon lat 250 cmq
 8978,Gaseosa lima/lim seven up pet 1.5 ltr
 8979,Agua sin gas aquarius delight pera bot 2250cc
@@ -8994,9 +8994,9 @@ id,nombre
 8993,Agua mineral con gas kin bot 500 ml
 8994,Amargo terma pomelo rosado bot 1350 ltr
 8995,Jugo naranja mango citric ttb 500 cmq
-8996,Agua mineral sin gas nestle bot 1,5 ltr
+8996,Agua mineral sin gas nestle bot 15 ltr
 8997,Bebida energizante powerade naranja bot 500 cc
-8998,Gaseosa coca cola light bot 2,25 ltr
+8998,Gaseosa coca cola light bot 225 ltr
 8999,Agua con gas h2oh!! maracuyada bot 500 cc
 9000,Bebida energizante powerade manzana bot 995 cc
 9001,Agua con gas h2oh!! naranchelo bot 2.25 lt
@@ -9014,7 +9014,7 @@ id,nombre
 9013,Jugo tang naranja durazno sob 20 grm
 9014,Agua mineral sin gas glaciar bot 500 cc
 9015,Agua con gas ser we naranja bot 2.25 ltr
-9016,Jugo concent naranja mocoreta bot 1,5 ltr
+9016,Jugo concent naranja mocoreta bot 15 ltr
 9017,Agua mineral sin gas cellier bot 2 lt
 9018,Jugo baggio soy yo naranja ttb 200 cc
 9019,Gaseosa coca cola bot 500 cc
@@ -9033,7 +9033,7 @@ id,nombre
 9032,Agua sin gas aquarius pomelo bot 500 cc
 9033,Jugo baggio soy yo multifruta ttb 200 cc
 9034,Agua mineral con gas de las misiones bot 500 cc
-9035,Gaseosa paso de l.toros pomelo bot 1,5 ltr
+9035,Gaseosa paso de l.toros pomelo bot 15 ltr
 9036,Agua mineral sin gas glaciar bot 2 ltr
 9037,Agua saborizada awafrut manzana bot 500 cc
 9038,Gaseosa seven up free bot 500 cc
@@ -9050,14 +9050,14 @@ id,nombre
 9049,Agua sin gas aquarius pera delight bot 500 cmq
 9050,Bebida energizante gatorade cool blue bot 473 cc
 9051,Agua mineral sin gas nestle bot 2 ltr
-9052,Jugo concentrado mocoreta multi frutas bot 1,5 ltr
+9052,Jugo concentrado mocoreta multi frutas bot 15 ltr
 9053,Jugo bc manzana verde sob.9 grm
 9054,Jugo cepita manzana ttb 1 ltr
 9055,Agua sin gas livra pomelo bot 1.5 ltr
 9056,Agua sin gas v.d.s levite manzana bot 500 cc
 9057,Gaseosa coca cola bot 600 cc
 9058,Jugo cepita hot fill naranja pet 1.5 ltr
-9059,Agua sin gas sierra de los padres pomelo bla cero 1,5 ltr
+9059,Agua sin gas sierra de los padres pomelo bla cero 15 ltr
 9060,Jugo soja ades durazno ttb 200 ml
 9061,Gaseosa mocoreta pomelo bot 2.25 lt
 9062,Agua sin gas aquarius manzana bot 2.25 lt
@@ -9081,21 +9081,21 @@ id,nombre
 9080,Gaseosa cunnington lemon bot 2.25 ltr
 9081,Jugo tang pera sob 20 grm
 9082,Agua con gas cunnington naranja durazno bot 2  ltr
-9083,Agua mineral sin gas villavicencio bot 1,5 ltr
+9083,Agua mineral sin gas villavicencio bot 15 ltr
 9084,Agua sin gas v.d.s levite pera bot 1.5 ltr
 9085,Agua sin gas livra naranja bot 1.5 ltr
 9086,Agua con gas cunnington style pomelo pet 600 cc
-9087,Jugo concentrado mocoreta manzana bot 1,5 ltr
+9087,Jugo concentrado mocoreta manzana bot 15 ltr
 9088,Amargo terma limon pet 1.75 ltr
-9089,Gaseosa coca cola bot 1,5 ltr
+9089,Gaseosa coca cola bot 15 ltr
 9090,Gaseosa sprite zero bot 600 cc
 9091,Gaseosa cola . cunnington bot 2.25 ltr
-9092,Agua mineral con gas kin bot 1,5 ltr
+9092,Agua mineral con gas kin bot 15 ltr
 9093,Agua sin gas aquarius limonada bot 600 cmq
-9094,Gaseosa cunnington pomelo bot 1,5 ltr
-9095,Gaseosa pepsi max bot 2,25 ltr
+9094,Gaseosa cunnington pomelo bot 15 ltr
+9095,Gaseosa pepsi max bot 225 ltr
 9096,Agua sin gas mineral sierra d/lo bot 2 ltr
-9097,Amargo tacconi serrano bot 1,5 ltr
+9097,Amargo tacconi serrano bot 15 ltr
 9098,Agua sin gas v.d.s levite cero pomelo bot 1.5 ltr
 9099,Gaseosa cunnington naranja bot 2.25 ltr
 9100,Gaseosa coca cola zero lat 354 cc
@@ -9111,7 +9111,7 @@ id,nombre
 9110,Bebida energizante gatorade frutas tropicales bot 473 cc
 9111,Jugo cepita naranja 100% ttb 1 lt
 9112,Agua mineral sin gas nestle bot 500 cc
-9113,Gaseosa seven up free bot 2,25 ltr
+9113,Gaseosa seven up free bot 225 ltr
 9114,Agua con gas h2oh!! naranchelo bot 1.5 ltr
 9115,Agua sin gas livra naranja bot 2 ltr
 9116,Multifruta fiesta de los niños pet 1ltr
@@ -9129,7 +9129,7 @@ id,nombre
 9128,Jugo tang anana sob 20 grm
 9129,Jugo light baggio naranja ttb 1 ltr
 9130,Agua sin gas aquarius limonada bot 2.25 ltr
-9131,Gaseosa cunnington citrus bot 1,5 ltr
+9131,Gaseosa cunnington citrus bot 15 ltr
 9132,Jugo terma limonada lima y menta bot 1.3 lt
 9133,Gaseosa coca cola life bot 600 cmq pack 6 uni
 9134,Gaseosa cunnington naranja bot 500 cc
@@ -9146,7 +9146,7 @@ id,nombre
 9145,Agua con gas ser citrus we bot 2.25 ltr
 9146,Gaseosa seven up lat 354 cc
 9147,Cerveza sin alcohol quilmes lieber bot 330 cc
-9148,Gaseosa sprite zero bot 2,25 ltr
+9148,Gaseosa sprite zero bot 225 ltr
 9149,Jugo light clight naranja  durazno sob 9 grm
 9150,Agua sin gas v.d.s levite anana bot 500 cc
 9151,Jugo tang mandarina sob 20 grm
@@ -9158,18 +9158,18 @@ id,nombre
 9157,Agua mineral sin gas coto bot 1.5 ltr
 9158,Jugo baggio naranja ttb 1.5 ltr
 9159,Jugo cepita hot fill anana pet 300 cmq
-9160,Agua con gas ser citrus bot 1,5 ltr
+9160,Agua con gas ser citrus bot 15 ltr
 9161,Gaseosa mocoreta naranja bot 2.25 lt
 9162,Agua sin gas aquarius multifruta pet 600 cmq
 9163,Gaseosa sprite retornable bot 2 ltr
 9164,Agua sin gas aquarius pera lar 354 cc
 9165,Agua sin gas aquarius uva bot 1.5 lt
 9166,Jugo concentrado mocoreta manzana bot 500 cc
-9167,Gaseosa cunnington light pomelo bot 2,25 ltr
+9167,Gaseosa cunnington light pomelo bot 225 ltr
 9168,Gaseosa light pomelo paso de l.t lat 354 cmq
 9169,Gaseosa cunnington bot 500 cc
 9170,Jugo light clight stick manzan a deliciosa 3 uni sob 13.5 grm
-9171,Gaseosa sprite pack 4 uni bot 1,5 ltr
+9171,Gaseosa sprite pack 4 uni bot 15 ltr
 9172,Jugo hi-c naranja bot 2 lt
 9173,Agua sin gas sierra de los padres pomelo blan pet 1.5 ltr
 9174,Gaseosa cunnington light lima limon bot 2.25 ltr
@@ -9181,15 +9181,15 @@ id,nombre
 9180,Gaseosa coca cola light lat 354 cc
 9181,Agua con gas ser naranja we bot 1.5 ltr
 9182,Gaseosa cunnington lemon bot 1.5 ltr
-9183,Gaseosa cunnington tonica bot 2,25 ltr
+9183,Gaseosa cunnington tonica bot 225 ltr
 9184,Jugo tropicana go naranja ttb 200 cc
 9185,Jugo terma limonada gengibre & lemongrass bot 400 ml
-9186,Amargo terma con limon bot 1,25 ltr
+9186,Amargo terma con limon bot 125 ltr
 9187,Agua saborizada baggio fresh pomelo bot 1.5 ltr
 9188,Gaseosa coca cola light bot 500 cc
 9189,Agua mineral sin gas eco d.los andes bot 2 ltr
 9190,Agua con gas h2oh!! pomelo pink bot 1.5 ltr
-9191,Gaseosa paso de l.toros pomelo bot 2,25 ltr
+9191,Gaseosa paso de l.toros pomelo bot 225 ltr
 9192,Gaseosa cunnington naranja bot 1.5 ltr
 9193,Jugo baggio soy yo banana y anana ttb 200 cc
 9194,Jugo arcor limonada sob 20 grm
@@ -9203,7 +9203,7 @@ id,nombre
 9202,Jugo terma limonada gengibre & lemongrass bot 1.3 lt
 9203,Jugo baggio multifruta soy yo ttb 1 ltr
 9204,Jugo baggio pronto naranja ttb 330 cmq
-9205,Gaseosa sprite zero bot 1,5 ltr
+9205,Gaseosa sprite zero bot 15 ltr
 9206,Bebida energizante gatorade cool blue bot 1.25 ltr
 9207,Agua sin gas aquarius uva bot 500 cc
 9208,Jugo naranja frutilla citric kids ttb 200 cc
@@ -9225,11 +9225,11 @@ id,nombre
 9224,Agua sin gas kin bot 6 ltr
 9225,Gaseosa lima limon cunnington bot 2.25 ltr
 9226,Gaseosa coca cola zero bot 600 cc
-9227,Amargo tacconi con limon bot 1,5 ltr
+9227,Amargo tacconi con limon bot 15 ltr
 9228,Amargo tres torres blanco bot 1.5 ltr
 9229,Agua sin gas v.d.s levite cero naranja bot 500 cc
 9230,Jugo light clight naranja sob 10 grm
-9231,Gaseosa schweppes tonica bot 1,5 ltr
+9231,Gaseosa schweppes tonica bot 15 ltr
 9232,Clerico sin alcohol santa claus bot 1 ltr
 9233,Gaseosa coca cola life bot 600 cmq
 9234,Jugo nat. naranja baggio pron ttb 200 cmq
@@ -9245,15 +9245,15 @@ id,nombre
 9244,Gaseosa fanta naranja lat 354 cc
 9245,Bebida energizante gatorade manzana bot 473 cc
 9246,Jugo baggio durazno ttb 1ltr
-9247,Jugo concentrado mocoreta diet pomelo bot 1,5 ltr
-9248,Agua mineral sin gas eco d.los andes bot 1,5 ltr
+9247,Jugo concentrado mocoreta diet pomelo bot 15 ltr
+9248,Agua mineral sin gas eco d.los andes bot 15 ltr
 9249,Agua sin gas v.d.s levite naranja bot 500 cc
 9250,Agua sin gas livra cero pomelo pink bot 2 ltr
 9251,Jugo tang limon dulce sob 20 grm
 9252,Jugo cepita multifruta ttb 200 cc
 9253,Jugo naranja sin pulpa citric ttb 250 cc
 9254,Jugo cepita nutri durazno ttb 200 ml
-9255,Gaseosa cunnington light pomelo bot 1,5 ltr
+9255,Gaseosa cunnington light pomelo bot 15 ltr
 9256,Agua con gas h2oh!! naranchelo bot 500 cc
 9257,Gaseosa coca cola zero retornable bot 2 ltr
 9258,Jugo light bc la campagnola manzana ttb 1 ltr
@@ -9261,19 +9261,19 @@ id,nombre
 9260,Jugo light clight pomelo  amarillo sob 10 grm
 9261,Agua sin gas v.d.s levite pomelo rosado pet 1.5 lt
 9262,Agua mineral sin gas de las misiones bot 1.5 ltr
-9263,Agua mineral con gas villavicencio bot 1,5 ltr
+9263,Agua mineral con gas villavicencio bot 15 ltr
 9264,Agua mineral con gas sierra de los padres bot 1.5 lt
 9265,Gaseosa cunnington  pomelo bot 500 cc
 9266,Jugo bc mandarina sob 9 grm
 9267,Agua sin gas livra manzana bot 1.5 ltr
 9268,Agua sin gas aquarius limonada bot 500 cc
-9269,Agua sin gas sierra de los padres limone cero bot 1,5 ltr
+9269,Agua sin gas sierra de los padres limone cero bot 15 ltr
 9270,Agua saborizada cellier naranja bot 1.5 ltr
 9271,Te fuze tea durazno bot 1.45 ltr
-9272,Gaseosa pepsi light bot 1,5 ltr
+9272,Gaseosa pepsi light bot 15 ltr
 9273,Agua sin gas v.d.s levite pera bot 500 cc
 9274,Energizante red bull pak 4 uni  lat 25o cc
-9275,Gaseosa pepsi max bot 1,5 ltr
+9275,Gaseosa pepsi max bot 15 ltr
 9276,Jugo tang naranja fresh + jarra
 9277,Agua sin gas aquarius delight pera bot 600 cmq
 9278,Agua mineral sin gas villa del sur levite manzana bot 300 ml
@@ -9282,15 +9282,15 @@ id,nombre
 9281,Jugo tang limonada fresh sob 25 grm
 9282,Agua sin gas v.d.s levite cero limon bot 2.25 ltr
 9283,Gaseosa coca cola 2uni+bonaqua 2 uni+coca light+sprite pak 6u
-9284,Gaseosa cunnington ginger ale bot 1,5 ltr
+9284,Gaseosa cunnington ginger ale bot 15 ltr
 9285,Gaseosa schweppes pomelo botella 1.5 litros
 9286,Jugo light baggio durazno ttb 1 ltr
-9287,Gaseosa ciudad del lago pomelo bot 2,25 ltr
+9287,Gaseosa ciudad del lago pomelo bot 225 ltr
 9288,Agua sin gas livra pera bot 1.5 ltr
 9289,Gaseosa pritty limon bot 3 ltr
 9290,Agua sin gas pera livra bot 2 ltr
 9291,Jugo light clight naranja dulce sob 8 grm
-9292,Agua sin gas aquarius naranja delight bot 1,5 ltr
+9292,Agua sin gas aquarius naranja delight bot 15 ltr
 9293,Gaseosa cunnington light lima limon bot 1.5 ltr
 9294,Gaseosa schweppes pomelo botella 2.25 litros
 9295,Agua saborizada naranja y dura bot 2.25 ltr
@@ -9302,21 +9302,21 @@ id,nombre
 9301,Gaseosa coca cola light bot 3 lt
 9302,Jugo light clight anana sob 9 grm
 9303,Agua con gas ser we limon bot 500 cmq
-9304,Agua mineral sin gas evian bot 1,5 ltr
+9304,Agua mineral sin gas evian bot 15 ltr
 9305,Jugo terma pomelada quina y coriandro bot 2.25 lt
-9306,Gaseosa coca cola pack 4 uni bot 2,25 ltr
-9307,Gaseosa coca cola light bot 1,5 ltr
+9306,Gaseosa coca cola pack 4 uni bot 225 ltr
+9307,Gaseosa coca cola light bot 15 ltr
 9308,Bebida energizante gatorade cool blue bot 500 cc
 9309,Jugo baggio soy yo manzana ttb 200 cc
 9310,Amargo terma light c/limon pet 1.75 ltr
-9311,Agua sin gas sierra de los padres naranja cero 1,5 ltr
+9311,Agua sin gas sierra de los padres naranja cero 15 ltr
 9312,Jugo zuko anana sob 15 grm
-9313,Amargo tacconi blanco bot 1,5 ltr
+9313,Amargo tacconi blanco bot 15 ltr
 9314,Agua con gas cellier naranja durazno bot 1.5 ltr
 9315,Agua sin gas aquarius naranja bot 300 cmq
 9316,Agua mineral sin gas villa del sur bid 6.25 ltr
 9317,Soda coto sif 2 ltr
-9318,Gaseosa seven up free bot 1,5 ltr
+9318,Gaseosa seven up free bot 15 ltr
 9319,Agua mineral sin gas eco d.los andes bot 500 cc
 9320,Agua sin gas manzana patagonic livra bot 2 ltr
 9321,Gaseosa coca cola light bot 600 cc
@@ -9328,7 +9328,7 @@ id,nombre
 9327,Agua mineral con gas sierra de los padres bot 500 cc
 9328,Energizante block lat 250 cc
 9329,Amargo terma pomelo rosado pet 1.25 lt
-9330,Agua sin gas v.d.s levite naranja bot 1,5 ltr
+9330,Agua sin gas v.d.s levite naranja bot 15 ltr
 9331,Agua saborizada pomelo baggio vida bot 1.5 ltr
 9332,Gaseosa schweppes tonica bot 2.25 lt
 9333,Gaseosa pepsi light bot 500 cc
@@ -9336,20 +9336,20 @@ id,nombre
 9335,Amargo terma manzana arandanos pet 1.25 lt
 9336,Gaseosa cunnington light bot 500 cc
 9337,Agua mineral sin gas ser bot 1.5 ltr
-9338,Agua sin gas coto pomelo bot 1,5 ltr
+9338,Agua sin gas coto pomelo bot 15 ltr
 9339,Amargo terma stevia pera bot 1.25 ltr
 9340,Jugo soja ades tropical ttb 1 ltr
 9341,Jugo light clight  manzana verde revolvete sob 8.grm
-9342,Agua mineral con gas glaciar bot 1,5 ltr
+9342,Agua mineral con gas glaciar bot 15 ltr
 9343,Jugo soja ades manzana ttb 1 lt
 9344,Amargo terma stevia naranja pet 1.25 ltr
-9345,Gaseosa pepsi bot 1,5 ltr
+9345,Gaseosa pepsi bot 15 ltr
 9346,Agua sin gas aquarius pomelo bot 2.25 lt
 9347,Energizante vitaliza lat 250 cc
 9348,Gaseosa pepsi bot 3 ltr
 9349,Agua sin gas multifrutas aquarius bot 1.5 ltr
 9350,Manzana sin alc de los niños pet 1 ltr
-9351,Gaseosa ciudad del lago naranja bot 2,25 ltr
+9351,Gaseosa ciudad del lago naranja bot 225 ltr
 9352,Jugo cepita hot fill durazno pet 300 cc
 9353,Jugo tang naranja suave sob 20 grm
 9354,Agua sin gas aquarius pera delight bot 1.5 ltr
@@ -9362,16 +9362,16 @@ id,nombre
 9361,Energizante blue v energy lat 250 cc
 9362,Manzana fizz sin alcohol fiesta de niños bot 1 ltr
 9363,Jugo baggio multifrutal ttb 200 cc
-9364,Gaseosa mirinda naranja bot 1,5 ltr
+9364,Gaseosa mirinda naranja bot 15 ltr
 9365,Agua mineral sin gas villa del sur levite nja du bot 2.25 ltr
 9366,Jugo bc limonada sob 9.3 grm
-9367,Gaseosa crush tonica bot 2,25 ltr
+9367,Gaseosa crush tonica bot 225 ltr
 9368,Agua vitaminica water triple berry bot 500 cmq
 9369,Energizante v energy sugarfree lat 250 cc
 9370,Jugo tang naranja dulce sob 20 grm
 9371,Gaseosa sprite bot 2.25 ltr
 9372,Manzana fizz sin alcohol fiesta pet 1 ltr
-9373,Gaseosa crush lima limon bot 2,25 ltr
+9373,Gaseosa crush lima limon bot 225 ltr
 9374,Bebida energizante powerade naranja bot 995 cc
 9375,Ades tropical 330ml
 9376,Jugo soja ades anana ttb 200 ml
@@ -9383,27 +9383,27 @@ id,nombre
 9382,Bebida energizante gatorade naranja bot 500 cc
 9383,Jugo tropicana manzana ttb 1 ltr
 9384,Agua sin gas livra cero manzana bot 2 ltr
-9385,Gas.cola x2.25 + gas.l/lim x2.2 c/cola+spri bot 2,25 ltr
+9385,Gas.cola x2.25 + gas.l/lim x2.2 c/cola+spri bot 225 ltr
 9386,Agua sin gas v.d.s levite mandarina bot 600 cc
 9387,Agua saborizada baggio fresh pera bot 1.5 ltr
-9388,Gaseosa cunnington pomelo bot 2,25 ltr
+9388,Gaseosa cunnington pomelo bot 225 ltr
 9389,Anana fizz sin alcohol fiesta de niños bot 1 ltr
-9390,Agua con gas coto naranja durazno bot 1,5 ltr
+9390,Agua con gas coto naranja durazno bot 15 ltr
 9391,Gaseosa cunnington light naranja bot 1.5 ltr
 9392,Gaseosa fanta naranja retornable bot 2 ltr
 9393,Gaseosa seven up bot 500 cc
 9394,Agua sin gas mineral kin bot 2.25 ltr
 9395,Energizante speed unlimited pack 4 uni  lat 250 cc
 9396,Gaseosa fanta naranja zero bot 1.5 ltr
-9397,Gaseosa ciudad del lago lima limon bot 2,25 ltr
+9397,Gaseosa ciudad del lago lima limon bot 225 ltr
 9398,Jugo concentrado mocoreta naranja bot 500 cc
 9399,Jugo terma limonada frambuesa y sauco bot 400 ml
 9400,Jugo soja ades manzana light ttb 1 ltr
 9401,Jugo soja ades manzana ttb 200 ml
 9402,Gaseosa coca cola zero pack 4 uni bot 2.25 ltr
 9403,Jugo baggio naranja soy yo ttb 1 ltr
-9404,Agua mineral sin gas glaciar bot 1,5 ltr
-9405,Amargo terma patagonico bot 1,25 ltr
+9404,Agua mineral sin gas glaciar bot 15 ltr
+9405,Amargo terma patagonico bot 125 ltr
 9406,Jugo baggio manzana ttb 200 cc
 9407,Jugo terma limonada lima y menta bot 400 ml
 9408,Jugo soja ades anana ttb 1 lt
@@ -9414,16 +9414,16 @@ id,nombre
 9413,Agua con gas cunington style pomelo bot 2 lt
 9414,Gaseosa coca cola pack 6 uni bot 600 cc
 9415,Agua con gas ser lemon we bot 2.25 ltr
-9416,Gaseosa cunnington cola light bot 1,5 ltr
+9416,Gaseosa cunnington cola light bot 15 ltr
 9417,Jugo tang naranja frutilla banana sob 20 grm
-9418,Gaseosa pepsi bot 2,25 ltr
+9418,Gaseosa pepsi bot 225 ltr
 9419,Gaseosa schweppes tonica lat 354 cc
 9420,Jugo naranja durazno citric kids ttb 200 cc
 9421,Gaseosa seven up limonada limonada bot 500 cc
-9422,Gaseosa coca cola zero pack 4 uni bot 1,5 ltr
+9422,Gaseosa coca cola zero pack 4 uni bot 15 ltr
 9423,Soda saldan sif 2 lt
 9424,Agua mineral sin gas sierra d/padres bot 600 cc
-9425,Agua sin gas v.d.s levite manzana bot 1,5 ltr
+9425,Agua sin gas v.d.s levite manzana bot 15 ltr
 9426,Agua sin gas aquarius manzana bot 1.5 ltr
 9427,Multifruta sin alcohol de los niños pet 1 ltr
 9428,Jugo light baggio fresh naranja dulce ttb 200 ml
@@ -9434,7 +9434,7 @@ id,nombre
 9433,Gaseosa cunnington light pomelo bot 500 cc
 9434,Jugo light baggio fresh naranja dulce ttb 1000 ml
 9435,Jugo tang frutilla fresh sob 25 grm
-9436,Gaseosa paso de l.toros light pomelo bot 1,5 ltr
+9436,Gaseosa paso de l.toros light pomelo bot 15 ltr
 9437,Te fuze tea pera bot 500 cc
 9438,Gaseosa cunnington tonica bot 500 cc
 9439,Gaseosa pepsi lat 330 cc
@@ -9444,8 +9444,8 @@ id,nombre
 9443,Agua sin gas multifrutas aquarius bot .5 ltr
 9444,Jugo soja ades naranja ttb 1 lt
 9445,Agua con gas sierra de los padres pomelo rosado bot 1.5lt
-9446,Gaseosa coca cola zero bot 1,5 ltr
-9447,Gaseosa pritty light limon bot 1,5 ltr
+9446,Gaseosa coca cola zero bot 15 ltr
+9447,Gaseosa pritty light limon bot 15 ltr
 9448,Jugo cepita hot fill manzana pet 1.5 cc
 9449,Gaseosa seven up lima limon free pak 4 uni
 9450,Amargo tres torres serrano pet 1.5 ltr
@@ -9460,14 +9460,14 @@ id,nombre
 9459,Agua con gas h2oh!! citrus bot 2.25 ltr
 9460,Gaseosa cunnington light naranja bot 2.25 ltr
 9461,Gaseosa coca cola life lat 354 cmq
-9462,Agua mineral con gas kin bot 2,25 ltr
+9462,Agua mineral con gas kin bot 225 ltr
 9463,Gaseosa sprite bot 500 cc
 9464,Jugo bc pera sob 7.8 grm
 9465,Gaseosa coca cola life bot 1.5 ltr
 9466,Jugo baggio manzana ttb 1.5 ltr
 9467,Amargo terma limón cero bot 1.35 lt
 9468,Gaseosa coca-cola 2 uni + 2 sprite bot 2.25 ltr pack 4u
-9469,Gaseosa seven up bot 2,25 ltr
+9469,Gaseosa seven up bot 225 ltr
 9470,Gaseosa coca cola light lat 250 cmq
 9471,Amargo terma light citrus bot 1.25 lt
 9472,Agua mineral sin gas villa del sur levite frut tro bot 600 ml
@@ -9476,12 +9476,12 @@ id,nombre
 9475,Jugo bc la campagnola multifruta ttb 200 cc
 9476,Gaseosa neuss naranja bot 2.25 ltr
 9477,Agua con gas ser limon we bot 1.5 ltr
-9478,Amargo terma light cuyano bot 1,25 ltr
+9478,Amargo terma light cuyano bot 125 ltr
 9479,Amargo terma serrano cero bot 1.35 lt
 9480,Jugo tang naranja banana sob 20 grm
 9481,Gaseosa coca cola bot 2.25 ltr
-9482,Gaseosa cunnington cola light bot 2,25 ltr
-9483,Agua mineral con gas eco d.los andes bot 1,5 ltr
+9482,Gaseosa cunnington cola light bot 225 ltr
+9483,Agua mineral con gas eco d.los andes bot 15 ltr
 9484,Agua mineral sin gas villavicencio bot 500 cc
 9485,Energizante speed unlimited lat 250 cc
 9486,Agua con gas h2oh citrus bot 500 cc
@@ -9489,7 +9489,7 @@ id,nombre
 9488,Jugo light baggio fresh multifruta ttb 1.5 ltr
 9489,Jugo tropicana go manzana ttb 200 cc
 9490,Agua saborizada awafrut sin gas limonada bot 1.5 ltr
-9491,Gaseosa coca cola light pack 4 uni bot 2,25 ltr
+9491,Gaseosa coca cola light pack 4 uni bot 225 ltr
 9492,Jugo bc naranja sob 9.7 grm
 9493,Jugo light bc la campagnola multifruta ttb 1 ltr
 9494,Jugo cepita manzana 100% ttb 1 ltr
@@ -9499,7 +9499,7 @@ id,nombre
 9498,Te fuze tea limon bot 1.42 ltr
 9499,Gaseosa neuss pomelo bot 2.25 ltr
 9500,Agua con gas ser pomelo we bot 2.25 ltr
-9501,Gaseosa sprite bot 1,5 ltr
+9501,Gaseosa sprite bot 15 ltr
 9502,Gaseosa coca cola zero bot 500 cc
 9503,Gaseosa fanta bot 2.25 ltr
 9504,Gaseosa cola cunnington bot 1.5 ltr
@@ -9511,26 +9511,26 @@ id,nombre
 9510,Agua sin gas aquarius delight naranja bot 600 cmq
 9511,Agua mineral sin gas villa del sur levite pomelo bot 300 ml
 9512,Bebida energizante gatorade naranja bot 1.25 ltr
-9513,Gaseosa paso de l.toros tonica bot 1,5 ltr
+9513,Gaseosa paso de l.toros tonica bot 15 ltr
 9514,Agua mineral sin gas eco de los andes one bot 1 ltr
 9515,Gaseosa paso de l.toros tonica lat 354 cc
 9516,Agua con gas ser we naranja bot 500 cmq
 9517,Agua con gas ser citrus we bot 1.5 ltr
 9518,Agua saborizada awafrut pomelo bot 1.5 ltr
 9519,Agua sin gas sierra de los padres manzana pet 1.5 ltr
-9520,Agua sin gas v.d.s levite pomelo bot 1,5 ltr
+9520,Agua sin gas v.d.s levite pomelo bot 15 ltr
 9521,Jugo concentrado mocoreta pomelo bot 500 cc
 9522,Gaseosa paso de los toros limon bot 1.5 ltr
 9523,Bebida energizante gatorade naranja ttb 200 cc
 9524,Jugo arcor naranja dulce paq 20 grm
 9525,Jugo terma limonada frambuesa y sauco bot 1.3 lt
-9526,Amargo terma con pomelo bot 1,25 ltr
+9526,Amargo terma con pomelo bot 125 ltr
 9527,Agua saborizada baggio fresh naranja dulce bot 1.5 ltr
 9528,Agua sin gas v.d.s levite limon dulce bot 600 cc
 9529,Gaseosa schweppes pomelo lat 354 cc
 9530,Agua sin gas mineralizada ser bot 2.25 lt
 9531,Agua sin gas aquarius pomelo lat 354 cmq
-9532,Soda - sierra d/lo bot 2,25 ltr
+9532,Soda - sierra d/lo bot 225 ltr
 9533,Jugo baggio naranja ttb 1 ltr
 9534,Amargo tres torres limón pet 1.5 ltr
 9535,Agua sin gas v.d.s levite cero manzana bot 1.5 ltr
@@ -9544,16 +9544,16 @@ id,nombre
 9543,Agua sin gas aquarius limonada bot 1.5 ltr
 9544,Agua con gas cunnington citrus pet 600 cc
 9545,Agua mineral sin gas coto bot 2 lt
-9546,Jugo concentrado mocoreta cola bot 1,5 ltr
-9547,Gaseosa crush pomelo amarillo bot 2,25 ltr
+9546,Jugo concentrado mocoreta cola bot 15 ltr
+9547,Gaseosa crush pomelo amarillo bot 225 ltr
 9548,Gaseosa pepsi bot 500 cc
 9549,Agua sin gas v.d.s levite mandarina bot 1.5 ltr
 9550,Agua sin gas aquarius multifruta lat 354 cmq
 9551,Agua con gas h2oh!! limoneto bot 500 cc
-9552,Gaseosa cunnington tonica bot 1,5 ltr
+9552,Gaseosa cunnington tonica bot 15 ltr
 9553,Amargo terma light serrano bot 1.25 ltr
-9554,Gaseosa ciudad del lago cola bot 2,25 ltr
-9555,Gaseosa coca cola light pack 4 uni bot 1,5 ltr
+9554,Gaseosa ciudad del lago cola bot 225 ltr
+9555,Gaseosa coca cola light pack 4 uni bot 15 ltr
 9556,Agua mineral sin gas villavicencio sport bot 750 cc
 9557,Jugo bc mango naranja sob 7.9 grm
 9558,Amargo terma pomelo rosado pet 1.75 ltr
@@ -9563,25 +9563,25 @@ id,nombre
 9562,Agua mineral sin gas villa del sur levite naranja bot 300 ml
 9563,Gaseosa seven up limonada limonada pet 1.500 cc
 9564,Ades manzana 330ml
-9565,Gaseosa crush naranja bot 2,25 ltr
+9565,Gaseosa crush naranja bot 225 ltr
 9566,Agua mineral sin gas villa del sur bot 1650 ml
-9567,Gaseosa fanta naranja bot 1,5 ltr
+9567,Gaseosa fanta naranja bot 15 ltr
 9568,Agua sin gas multifrutas aquarius bot 2.25 ltr
 9569,Clerico sin alcohol fiesta pet 1 lt
 9570,Jugo soja ades tropical ttb 200 ml
 9571,Jugo baggio pronto manzana ttb 330 cmq
 9572,Jugo cepita naranja + jugo cepita manzana+lunchera pak 3u
-9573,Agua con gas h2oh citrus bot 1,5 ltr
+9573,Agua con gas h2oh citrus bot 15 ltr
 9574,Jugo light clight naranja mango sob. 8.5 grm
 9575,Te fuze tea pomelo bot 500 cc
 9576,Jugo soja ades naranja ttb 200 ml
-9577,Gaseosa mirinda naranja bot 2,25 ltr
+9577,Gaseosa mirinda naranja bot 225 ltr
 9578,Agua mineral con gas bon aqua bot 1.5 lt
 9579,Agua sin gas v.d.s levite cero manzana bot 500 cc
 9580,Jugo cepita hot fill anana pet 1.5 ltr
 9581,Gaseosa l/lim free lat seven up lat 354 cmq
 9582,Jugo bc la campagnola manzana ttb 200 cc
-9583,Amargo terma serrano bot 1,25 ltr
+9583,Amargo terma serrano bot 125 ltr
 9584,Bebida energizante gatorade frutas tropicales bot 750 cmq
 9585,Jugo arcor naranja-durazno sob 20 grm
 9586,Gaseosa pepsi light bot 2.25 ltr
@@ -9594,48 +9594,48 @@ id,nombre
 9593,Agua con gas sierra de los padres citrus bot 1.5 lt
 9594,Bebida energizante gatorade frutas tropicales bot 1.25 ltr
 9595,Jugo baggio pera ttb 1 ltr
-9596,Pritty cero 1,5
+9596,Pritty cero 15
 9597,Agua con gas h2oh!! limoneto bot 1.5 ltr
 9598,Gaseosa coca cola zero bot 3 ltr
 9599,Bebida energizante gatorade manzana ttb 200 cc
 9600,Agua con gas ser we pomelo bot 500 cmq
-9601,Agua con gas coto lima limon bot 1,5 ltr
+9601,Agua con gas coto lima limon bot 15 ltr
 9602,Agua sin gas aquarius pera bot 500 cc
 9603,Agua mineral sin gas sierra d/padres bid 5 ltr
 9604,Agua sin gas aquarius pomelo rosado bot 2.25 ltr
-9605,Agua con gas h2oh lima limon bot 1,5 ltr
-9606,Amargo terma light con limon bot 1,25 ltr
+9605,Agua con gas h2oh lima limon bot 15 ltr
+9606,Amargo terma light con limon bot 125 ltr
 9607,Agua sin gas aquarius uva bot 500 cmq
 9608,Jugo arcor multifruta sob 20 grm
 9609,Jugo light baggio fresh manzana delciosa ttb 1000 ml
 9610,Jugo tang naranja fresh sob 25 grm
-9611,Jugo naranja carioca bot 1,5 ltr
+9611,Jugo naranja carioca bot 15 ltr
 9612,Jugo light clight frutos rojos revolvete sob 10grm
 9613,Jugo soja ades natural ttb 1 lt
 9614,Ades naranja 330 ml
-9615,Gaseosa coca cola pack 4 uni bot 1,5 ltr
-9616,Gaseosa coto cola bot 2,25 ltr
+9615,Gaseosa coca cola pack 4 uni bot 15 ltr
+9616,Gaseosa coto cola bot 225 ltr
 9617,Gaseosa mirinda naranja bot 3 lt
 9618,Agua sin gas v.d.s levite limon dulce bot 1.5 ltr
-9619,Gaseosa sprite pack 4 uni bot 2,25 ltr
+9619,Gaseosa sprite pack 4 uni bot 225 ltr
 9620,Agua sin gas aquarius manzana bot 500 cc
 9621,Agua mineral sin gas villa del sur pet 2250 cmq
 9622,Jugo cepita hot fill naranja pet 300 cc
-9623,Gaseosa coca cola bot 2,5 ltr
+9623,Gaseosa coca cola bot 25 ltr
 9624,Jugo bc la campagnola durazno ttb 200 cc
 9625,Jugo bc la campagnola naranja ttb 200 cc
 9626,Jugo tang limonada sob 20 grm
 9627,Jugo light cligh limonada sob. 7.5 grm
-9628,Agua mineral sin gas sierra de los padres bid 6,50 lt
-9629,Gaseosa pritty limon  bot 2,25 ltr
+9628,Agua mineral sin gas sierra de los padres bid 650 lt
+9629,Gaseosa pritty limon  bot 225 ltr
 9630,Agua saborizada awafrut manzana bot 1.5 ltr
 9631,Gaseosa sprite bot 3 ltr
 9632,Agua mineral sin gas vds levite cero limon bot 600 ml
 9633,Agua mineral sin gas bon aqua bot 1.5 lt
 9634,Jugo baggio durazno naranja ttb 1 ltr
 9635,Energizante v energy lat 473 cc
-9636,Amargo terma cuyano bot 1,25 ltr
-9637,Agua con gas coto citrus bot 1,5 ltr
+9636,Amargo terma cuyano bot 125 ltr
+9637,Agua con gas coto citrus bot 15 ltr
 9638,Agua sin gas aquarius manzana bot 600 cmq
 9639,Agua sin gas aquarius pera bot 1.5 ltr
 9640,Gaseosa fanta naranja zero pet 600 ml
@@ -9777,7 +9777,7 @@ id,nombre
 9776,Vino malbec primeras viñas bot 750 cc
 9777,Vino tinto perdriel centenario bot 750 cc
 9778,Vino malbec don david bot 750 cc
-9779,Vino cabernet sauvignon casa de campo bot 1,1 ltr
+9779,Vino cabernet sauvignon casa de campo bot 11 ltr
 9780,Vino syrah trumpeter bot 750 cc
 9781,Vino syrah carcassonne bot 750 cc
 9782,Aperitivo caipiroska lim mixx tail bot 269 ml
@@ -10044,7 +10044,7 @@ id,nombre
 10043,Licor american club frutilla bot 750 cc
 10044,Vino cabernet sauvignon omnium bot 750 cc
 10045,Espumante blanco alma 4 chardonnay roble bot 750 cc
-10046,Vino tinto viñas de alvear bot 1,2 ltr
+10046,Vino tinto viñas de alvear bot 12 ltr
 10047,Vodka ciroc bot 750 cc
 10048,Champaña extra brut finca la linda bot 750 cc
 10049,Cerveza negra stella artois noire bot 975 cmq
@@ -10104,7 +10104,7 @@ id,nombre
 10103,Vino torrontes coquena bot 750 cc
 10104,Champaña rose alma negra bot 750 cc
 10105,Cerveza negra corona porron 330 cc
-10106,Vino blanco viñas de alvear bot 1,2 ltr
+10106,Vino blanco viñas de alvear bot 12 ltr
 10107,Vino tinto norton cosecha tardia dulce nat bot 750 ml
 10108,Vino white blend imago bot 750 ml
 10109,Vino syrah valbona bot 750 cc
@@ -10121,7 +10121,7 @@ id,nombre
 10120,Vino malbec-bonarda uxmal bot 750 cc
 10121,Vino cabernet- franc-merlot la poderosa bot 750 ml
 10122,Vino cabernet sauvignon  alaris trapiche bot 750 cc
-10123,Champaña extra brut chandon magum bot 1,5 ltr
+10123,Champaña extra brut chandon magum bot 15 ltr
 10124,Whisky johnnie walker swing est bot 750 cc
 10125,Vino tinto termidor seleccion ttb 1 ltr
 10126,Espumante blanco frizze durazno new touch bot 750 cc
@@ -10575,7 +10575,7 @@ id,nombre
 10574,Vino malbec malma bo 750 cc
 10575,Vino sauvignon blanc doña paula estate bot 750 cc
 10576,Champaña rose  navarro correas brut malbec bot 750 cc
-10577,Vino cabernet-malbec-merlot comte valmont bot 1,5 ltr
+10577,Vino cabernet-malbec-merlot comte valmont bot 15 ltr
 10578,Sidra real bot 330 cc
 10579,Whisky johnnie walker red label estuche bot 1 ltr
 10580,Vino cabernet sauvignon infinitus bot 750 cc
@@ -10793,7 +10793,7 @@ id,nombre
 10792,Shampoo tresemme oil radiante nut y brillo bot 400 ml
 10793,Acondicionador pantene rizos definido bot 200 ml
 10794,Coloracion nutrisse t 71 cja 1 uni
-10795,Coloracion just for men castaño oscuro cja 28,4 grm
+10795,Coloracion just for men castaño oscuro cja 284 grm
 10796,Acondicionador tresemme liso y sedoso bot 750 ml
 10797,Elasticos tao gruesos colores varios bsa 30 uni
 10798,Shampoo pantene 2 en 1 cuidado clasico bot 200 ml
@@ -10982,7 +10982,7 @@ id,nombre
 10981,Coloracion loreal excellence creme tono 5 cja 1 uni
 10982,Acondicionador pantene liso extremo bot 200 ml
 10983,Shampoo pantene control caida bot 200 ml
-10984,Shampoo loreal rebelde con frizz, alisado bot 750 ml
+10984,Shampoo loreal rebelde con frizz alisado bot 750 ml
 10985,Acondicionador tresemme oil radiante bot 400 ml
 10986,Acondicionador sedal ceramidas c/micro cera bot 200 ml
 10987,Acondicionador plusbelle lacio cuidado bot 1 lt
@@ -11324,7 +11324,7 @@ id,nombre
 11323,Shampoo pantene max pro-v hidrocauterizacion bot 750 ml
 11324,Shampoo elvive color vive bot 400 ml
 11325,Shampoo pantene antioxidante liso extremo bot 400 ml
-11326,Acondicionador loreal cab rebelde,frizz, alis bot 750ml
+11326,Acondicionador loreal cab rebeldefrizz alis bot 750ml
 11327,Coloracion casting * 832 rubio miel cja 3 uni
 11328,Acondicionador sedal liso extremo bot 650 ml
 11329,Invisibles tao bli 18 uni
@@ -11397,7 +11397,7 @@ id,nombre
 11396,Shampoo plusbelle lacio cuidado bot 1 lt
 11397,Acondicionador suave miel y almendra bot 930 ml
 11398,Acondicionador tresemme hidratacion profunda bot 400ml
-11399,Coloracion just for men castaño claro cja 28,4 grm
+11399,Coloracion just for men castaño claro cja 284 grm
 11400,Tratamiento capilar reconstruccion completa 350g
 11401,Shampoo pantene advance keratin repair bot 300 ml
 11402,Coloracion loreal excellence t 6.10 cja 1 uni
@@ -11576,7 +11576,7 @@ id,nombre
 11575,Vincha tao estampada bsa 1 uni
 11576,Tic tac tao rococo grande bli 2 uni
 11577,Shampoo tresemme infusión keratina bot 400ml
-11578,Coloracion just for men castaño cja 28,4 grm
+11578,Coloracion just for men castaño cja 284 grm
 11579,Shampoo elvive caida resist bot 200 ml
 11580,Accesorios para el pelo tao vincha-broche-pulsera+banana
 11581,Coloracion alta moda e colore desamarill. cja 1 un
@@ -11609,7 +11609,7 @@ id,nombre
 11608,Coloracion alta moda e colore 6.3 cja 1 und
 11609,Shampoo plusbelle energizante bot 1 lt
 11610,Crema para peinar sedal hidraloe bot 300 ml
-11611,Coloracion just for men negro cja 28,4 grm
+11611,Coloracion just for men negro cja 284 grm
 11612,Tratamiento capilar capilatis brillo extremo pot 200 grm
 11613,Shampoo tresemme rituales de reparacion bot 750 ml
 11614,Californianas excellence castaño oscuro a negro cja 1un
@@ -11816,7 +11816,7 @@ id,nombre
 11815,Jabon tocador limol multivariedades paq 270 grm
 11816,Jabon liquido espadol skincare doy 250 ml
 11817,Jabon tocador suave leche c/pet de rosas paq 270gr
-11818,Jabon tocador naturals granada,fruta rica paq 110 grm
+11818,Jabon tocador naturals granadafruta rica paq 110 grm
 11819,Jabon tocador dove hidratante refrescante cja 1 uni 90 grm
 11820,Jabon tocador dove original pack especial 90 grm 4 uni
 11821,Jabon tocador nivea cremoso paq 360 grm
@@ -13231,7 +13231,7 @@ id,nombre
 13230,Crema st ives corporal humectacion diaria bot 532 ml
 13231,Crema nivea body milk reafirmante q10 plus bot 400ml
 13232,Crema nivea body milk piel extra seca bot 250 ml
-13233,Crema hinds cuerpo hidratante piel normal vit, alo bot 350m
+13233,Crema hinds cuerpo hidratante piel normal vit alo bot 350m
 13234,Crema hinds corporal perfection 3.0 bot 250 ml
 13235,Crema hinds hidratacion esencial piel normal bot 250ml
 13236,Crema hinds frutilla bot 250 ml
@@ -13314,7 +13314,7 @@ id,nombre
 13313,Cera depilatoria datril miel rto pot 140 grm
 13314,Banda depilatoria veet piel seca est 12 uni
 13315,Banda depilat. piel sensible veet est 12 uni
-13316,Cera depilatoria veet piel normal seca,sensible cja 200 g
+13316,Cera depilatoria veet piel normal secasensible cja 200 g
 13317,Cera depiladora datril cacerola pink 140 grm
 13318,Cera depilatoria datril vegetal microondas pot 200 grm
 13319,Banda depilatoria veet vit e y aceite almendra cja 16 uni
@@ -13465,7 +13465,7 @@ id,nombre
 13464,Emulsion fps 30 dermagl dermaglos s bot 266 ml
 13465,Locion post solar dermaglos hidratante fra 300 ml
 13466,Bloqueador solar nivea sun kids fps 35 bot x200 ml
-13467,Protector labial dermaglos bli 3,4 grm
+13467,Protector labial dermaglos bli 34 grm
 13468,Protector solar sun fresh spf neutrogena pom 200 ml
 13469,Emulsion solar dermaglos fps 20 bot 250 ml
 13470,Bloqueador solar nivea sun hidratante fps 30 bot 200 ml
@@ -13753,7 +13753,7 @@ id,nombre
 13752,Toalla 500gr flores2 50x80cm . . .
 13753,Alfombra multichindi 50x80cm . . .
 13754,Toalla 500grm hb 09 50x80cm . . .
-13755,Repasador toalla cuadros 38 x 60 cm 62,5 grm
+13755,Repasador toalla cuadros 38 x 60 cm 625 grm
 13756,Almohadon 40x40cm vintage . . .
 13757,Delantal cocina romanti 60x85 . . .
 13758,Alfombra baño rose 50x70cm . . .
@@ -14241,7 +14241,7 @@ id,nombre
 14240,Valija trolley rigida rueda 360º a1238 20
 14241,Cartera festina 9017/3 top design . . .
 14242,Cartera catherine long l2879 . . .
-14243,Mochila esp boy blue sq, 30x14x40.5 . . .
+14243,Mochila esp boy blue sq 30x14x40.5 . . .
 14244,Mochila spx carro telescóp art 1400-3t . . .
 14245,Valija trolley abs 19 . . .
 14246,Cartera fiesta 9175 top design . . .
@@ -14440,7 +14440,7 @@ id,nombre
 14439,Media hbre ooxford vestir s/elast 80011 . . .
 14440,Soquete hbre spx energy wave 1036 t.u . . .
 14441,Media invisible t.u 2473 . . .
-14442,Media quarter px3 2524,3 . . .
+14442,Media quarter px3 25243 . . .
 14443,Media top desig hbre cl 00 . . .
 14444,Media hbre..... dep pierre cardin ar680 . . .
 14445,Media invisible superheroes t  . . .
@@ -14457,7 +14457,7 @@ id,nombre
 14456,Media hbre ooxford  alg surt 80046 . . .
 14457,Soquete disney baby c/dibujo art 85/1 t00 . . .
 14458,Media hbre micromedia lisa 2552 . . .
-14459,Media invisible px3 s/toal vel rayas2474,3 . . .
+14459,Media invisible px3 s/toal vel rayas24743 . . .
 14460,Media 3/4 melange toalla rombos t-u . . .
 14461,Media invisible superheroes t  . . .
 14462,Media invisible minnions t4 . . .
@@ -14694,7 +14694,7 @@ id,nombre
 14693,Mate de algarrobo lustrado
 14694,Termo creta 1 litro lumilagro . . .
 14695,Plato hondo square 21cm violeta . . .
-14696,Hermetico redondo mediano bajo 0,68 ltr san remo
+14696,Hermetico redondo mediano bajo 068 ltr san remo
 14697,Guirnalda letra hello kitty x 1 . . .
 14698,Hermetico sandwich spiderman . . .
 14699,Vela n.2 pastel
@@ -14769,7 +14769,7 @@ id,nombre
 14768,Escurridor de pastas . . . .
 14769,Corta queso loekemeyer   . .
 14770,Invitaciones barbie hada x 10 . . .
-14771,Pava acero 2,5 lt azul/rojo con tapa . . .
+14771,Pava acero 25 lt azul/rojo con tapa . . .
 14772,Hermetico easy find lids 3.3 lts . . .
 14773,Colador 8 cm   . .
 14774,Hermetico new clipper rectangular 1.3 lt
@@ -14864,7 +14864,7 @@ id,nombre
 14863,Contenedor rect pequeño 0.43 litros
 14864,Fuente pyrex easy . . .
 14865,Plato postre manila esmeralda . . .
-14866,Plato sopa 8,5 varios diseños
+14866,Plato sopa 85 varios diseños
 14867,Cepillo limpia parrilla camping 80
 14868,Plato hondo square 21cm rojo . . .
 14869,Vela n.8 fuerte     . 1 uni
@@ -14911,7 +14911,7 @@ id,nombre
 14910,Canasta apilabl e color 6.30 lts x uni . . .
 14911,Vaso acrilico disney argos . .
 14912,Mate calabaza con pie alambre . . .
-14913,Hermetico moduline redondo    1,9 lts plasutil
+14913,Hermetico moduline redondo    19 lts plasutil
 14914,Tartera ilko     alumini 28 cm
 14915,Frutera ensaladera facetada
 14916,Asadera de vidrio rect 36x22cm 2.5lts . . .
@@ -15104,7 +15104,7 @@ id,nombre
 15103,Set x 12 copas king size . . .
 15104,Invitaciones mickey clubhouse x 10 . . .
 15105,Tazon amanecer flint . . .
-15106,Plato postre 20,3cm tempo . . .
+15106,Plato postre 203cm tempo . . .
 15107,Molde tortera desarmable 26c easyclean ilk . . .
 15108,Jarro mug 12 oz naranja . . .
 15109,Hermetico easy find lids 1.2 ml . . .
@@ -15123,7 +15123,7 @@ id,nombre
 15122,Alhajero antiguo alambre . . .
 15123,Copa cristal belly water . . .
 15124,Fuente easy pyrex . . .
-15125,Salero madera 4,5
+15125,Salero madera 45
 15126,Hermetico new clipper redondo 500 ml
 15127,Plato postre square 19cm naranja . . .
 15128,Hermetico redondo mediano alto 1 litro
@@ -15150,7 +15150,7 @@ id,nombre
 15149,Bowl chico hello kitty . . . .
 15150,Plato playo 26cm deco orange . . .
 15151,Tabla p/picar con abertura 20 x 28 .
-15152,Hermetico moduline redondo    1,1 lts plasutil
+15152,Hermetico moduline redondo    11 lts plasutil
 15153,Bolsa c/fuelle     chica 1 un
 15154,Bowl solido 14cm celeste . . .
 15155,Hermetico easy find lids 295 ml . . .
@@ -15189,7 +15189,7 @@ id,nombre
 15188,Vaso hb cavana 414 cc . . .
 15189,Savarin profesional 24 antiadherente . . .
 15190,Hermetico sandwich doc juguetes . . .
-15191,Plato hondo directoire 22,5 cm . . .
+15191,Plato hondo directoire 225 cm . . .
 15192,Porta pan lactal x uni . . .
 15193,Plato playo 24cm ceramica white . . .
 15194,Termo tapa taza toy story . . .
@@ -15198,7 +15198,7 @@ id,nombre
 15197,Portajabon c/ dosificador x uni . . .
 15198,Jarra pinguin ceramica alta 30cm. . . .
 15199,Vaso sorvete ex barbie   . .
-15200,Hermetico moduline rectangular  6,5 lts plasutil
+15200,Hermetico moduline rectangular  65 lts plasutil
 15201,Recipiente redondo 3 kg. c/lamina . . .
 15202,Copa agua x 6 unidades . . .
 15203,Antorcha para citronella de mesa de metal . . .
@@ -15283,7 +15283,7 @@ id,nombre
 15282,Vaso c/sorbete ext spiderman . . .
 15283,Recipiente heretico rect 600 cc . . .
 15284,Plato postre solido 20cm violeta . . .
-15285,Hermet. newclipper cuadrado 2,7l . . .
+15285,Hermet. newclipper cuadrado 27l . . .
 15286,Vaso trago largo rigolleau jerico x 6 uni
 15287,Vaso apilable stiba 358 ml
 15288,Vaso seelze rigolleau trago largo pack 6 uni
@@ -15326,7 +15326,7 @@ id,nombre
 15325,Vaso nilda decorado caracoles blan . . .
 15326,Jarro mug tilcara flint . . .
 15327,Percha premium sobretodo x uni
-15328,Hermetico moduline redondo    2,8 lts plasutil
+15328,Hermetico moduline redondo    28 lts plasutil
 15329,Bsa. domestic     phil.ex 7 pzs
 15330,Vinagrera ceramica blanca . . .
 15331,Vela n.7 pastel     . 1 uni
@@ -15428,7 +15428,7 @@ id,nombre
 15427,Repuesto difus. 500cc vainilla . . .
 15428,Percha clasica cromada set x 2 unidades
 15429,Bombilla ilko niquelada barrilito mini
-15430,Pimentero de molinillo madera 4,5
+15430,Pimentero de molinillo madera 45
 15431,Portavela ceramica alto . . .
 15432,Copa martini moments x 2 unidades. . . .
 15433,Fuente pyrex original 20 cm . . .
@@ -15498,7 +15498,7 @@ id,nombre
 15497,Botellon vidrio 1 litro . . .
 15498,Pote con tapa linea bella 1 litro . . .
 15499,Fuente oval honda apilable flint . . .
-15500,Jarra cabos 2,7lt . . .
+15500,Jarra cabos 27lt . . .
 15501,Espumadera redonda gastro acero inox . . .
 15502,Tenedor de mesa tramontina new kolor m/plastic bli 12 uni
 15503,Espatula gastronomica acero inox . . .
@@ -15645,7 +15645,7 @@ id,nombre
 15644,Linterna led recargable 5 led . . .
 15645,Lampara bajo consumo philips ecohome 14w calida e27
 15646,Lampara bajo consumo g.e globe 20w/865 e27 cja 1 uni
-15647,Lampara dicroica osram decostar eco 20w 12v gu5,3
+15647,Lampara dicroica osram decostar eco 20w 12v gu53
 15648,Pila duracell drlk aa x 2 unid . . .
 15649,Colgante luxor blanco mate 30cm . . .
 15650,Lampara bajo consumo osram 16w dulux ee bli 1 uni
@@ -15947,7 +15947,7 @@ id,nombre
 15946,Almohadon de cuero ecolog chocolate 38x3 . . .
 15947,Banqueta bar abs 2 tonos roja . . .
 15948,Mueble bajo 4 cajones tela . . .
-15949,Juego comedor sicca mesa + 6  silla recl + sombrilla 2,6 mt
+15949,Juego comedor sicca mesa + 6  silla recl + sombrilla 26 mt
 15950,Mesa de luz c/cajon y puerta vidrio . . .
 15951,Sillon abs verde . . .
 15952,Silla china roja . . .
@@ -16027,9 +16027,9 @@ id,nombre
 16026,Estanteria para zapatos bamboo . . .
 16027,Juego de comedor mesa y 4 sillas . . .
 16028,Mueble estanteria bamboo 2 estan . . .
-16029,Escritorio vidrio cherry c/alzada 120 x 66,5 x 86,5
+16029,Escritorio vidrio cherry c/alzada 120 x 665 x 865
 16030,Escritorio metal blanco . . .
-16031,Escritorio bco. z  108,5 x 60 x 76
+16031,Escritorio bco. z  1085 x 60 x 76
 16032,Silla negra con apoyabr. cromado . .
 16033,Silla de computacion con elevacion a gas y apoyabrazos
 16034,Escritorio metal y madera marron . . .
@@ -16043,7 +16043,7 @@ id,nombre
 16042,Escritorio pc vidrio c/alzada 120 x 66 x 130
 16043,Escritorio blanco 1 cajon 1 puerta . . .
 16044,Silla de oficina basica con elevacion a gas roja
-16045,Minimesa para notebook 73 x 41,5 x 67,95/96
+16045,Minimesa para notebook 73 x 415 x 6795/96
 16046,Silla negra c/apoyabr y base crom sh . . .
 16047,Escritorio basico de computacion ct 2330 . .
 16048,Silla ejecutiva negra con apoyabrazos
@@ -16123,7 +16123,7 @@ id,nombre
 16122,Luces navidad mangera x 10 mts. blanca . . .
 16123,Matambre casero coto x kg
 16124,Cabaña para pesebre con 6 figuras de 12 cm
-16125,Esfera de agua reno 8,5x8,5x12 cm . . .
+16125,Esfera de agua reno 85x85x12 cm . . .
 16126,Figura animales y pastores 12 cm
 16127,Globo liso 7 cm bli 6 uni
 16128,Ensalada americana coto xkg
@@ -16169,7 +16169,7 @@ id,nombre
 16168,Vittel tonne de peceto coto x kg
 16169,Panettone bauducco est 80 grm
 16170,Pernil de cerdo x kg
-16171,Esfera de agua sagrada fam 8,5x8,5x12 cm . . .
+16171,Esfera de agua sagrada fam 85x85x12 cm . . .
 16172,Figura aves 6 uni
 16173,Pechito con manta coto x kg
 16174,Luces navidad x 100 color arroz . . .
@@ -16324,7 +16324,7 @@ id,nombre
 16323,Maceta terra borde raya chi 22x18 . . .
 16324,Maceta carina barro 29 cm
 16325,Triple 15 x 650 g . . .
-16326,Set de pala, rastrillo y zanjeador . . .
+16326,Set de pala rastrillo y zanjeador . . .
 16327,Super abono x 5l . . .
 16328,Bomba de agua gamma sumergible
 16329,Fertilizante krack 7 bot 250 cc
@@ -16375,7 +16375,7 @@ id,nombre
 16374,Desmalezadora elite a explosion 34 cc
 16375,Cortacerco black & decker espada 41 cm 400 w
 16376,Regador de piso . . .
-16377,Set de pala, ,rastrillo y zanjeador . . .
+16377,Set de pala rastrillo y zanjeador . . .
 16378,Maceta plastica linea europea 25 cm verde
 16379,Maceta olla 25 s/o ceramica . . .
 16380,Maceta conca barro 35 cm . . .
@@ -16553,14 +16553,14 @@ id,nombre
 16552,Palita palita cabo goma . . .
 16553,Tanza tanza p/bordea 15 mts x 2 mm . . .
 16554,Fertilizante cesped 250 grm . . .
-16555,Desmalezadora 33cc 3,2hp 40cm . . .
+16555,Desmalezadora 33cc 32hp 40cm . . .
 16556,Maceta carina barro 23 cm . . .
 16557,Manguera riego 1/2 pulgada 15 mts
 16558,Urea x 650g . . .
 16559,Tierra fertil jardin d/maria bol 10 dm 3
 16560,Plato para maceta faitfull barro 20 cm
 16561,Plaguicida mamboreta selectivo cja 100 cc
-16562,Aceite - con citronella - ( 0,5 lts. ) . . .
+16562,Aceite - con citronella - ( 05 lts. ) . . .
 16563,Semillas de zapatallo . . . .
 16564,Plato para maceta verde 32 cm
 16565,Caña bambu 2.2mts altura . . .
@@ -16645,9 +16645,9 @@ id,nombre
 16644,Mesa elba ii 60 cm . . .
 16645,Mesa cuadrada plastica . . .
 16646,Silla sol c/almoh boreal fashion . . .
-16647,Silla plegable alum blanco 54x45x83,5
+16647,Silla plegable alum blanco 54x45x835
 16648,Mesa rectangular monaco . . .
-16649,Silla metal con esterilla plastica naranja 50,5x59,5x73
+16649,Silla metal con esterilla plastica naranja 505x595x73
 16650,Set mesa rattan +  2 sillas rattan plegables
 16651,Sillon floresta blanco
 16652,Silla elba i . . . .
@@ -16686,7 +16686,7 @@ id,nombre
 16685,Set sola i 4p . . .
 16686,Sillon trenzado alto 5 posiciones . .
 16687,Mesa redonda vidrio bistro 62x70
-16688,Silla metal con esterilla plastica azul 50,5x59,5x73
+16688,Silla metal con esterilla plastica azul 505x595x73
 16689,Reposera rattan c/apoyabrazo negra mt10 155x70x80
 16690,Reposera negra curva c/ apoyabrazo aluminio 160x60x70
 16691,Silla plastica blanca flor . . .
@@ -16715,7 +16715,7 @@ id,nombre
 16714,Reposera silver con apoya madera . . .
 16715,Silla caño alta mor
 16716,Silla plegable c/apoyabrazo . . .
-16717,Silla aluminio plegable negro 54x45x83,5
+16717,Silla aluminio plegable negro 54x45x835
 16718,Reposera marbella plegable blanca
 16719,Silla madera plegable . . .
 16720,Silla milan plastico . . .
@@ -16729,7 +16729,7 @@ id,nombre
 16728,Silla dansy verde . . . .
 16729,Mesa redonda 90 cm redonda
 16730,Silla de playa sol azul . .
-16731,Silla metal con esterilla plastica verde 50,5x59,5x73
+16731,Silla metal con esterilla plastica verde 505x595x73
 16732,Reposera aluminio con ruedas multiposiciones 189x53x71
 16733,Set living medolle ... . . .
 16734,Silla 5 pos sicca . . .
@@ -16753,38 +16753,38 @@ id,nombre
 16752,Sombrilla aluminio c/base plastica roma negra 4x3 mt
 16753,Sombrilla 180 beach . . . .
 16754,Base chica de hormigon y chapa p/ somb . .
-16755,Sombrilla madera dura c/polea beige 3,5 mt
+16755,Sombrilla madera dura c/polea beige 35 mt
 16756,Sombrilla aluminio con criket verde 3 mt
 16757,Sombrilla acero natural c/base cricket 3 mt
 16758,Gazebo hierro crema 3 mt x 3 mt
 16759,Gazebo deluxe metal beige . . .
-16760,Sombrilla madera dura c/polea azul 3,5 mt
-16761,Sombrilla aluminio c/base plastica roma rojo 3,5 mt
+16760,Sombrilla madera dura c/polea azul 35 mt
+16761,Sombrilla aluminio c/base plastica roma rojo 35 mt
 16762,Sombrilla deluxe beige
 16763,Sombrilla deluxe verde . . .
 16764,Base grande de hormigon y chapa p/ somb . .
 16765,Gazebo folding gazebo 3 x 3 m . . .
 16766,Sombrilla madera dura c/ detalle metal cricket 3 mt
-16767,Sombrilla aluminio c/base plastica roma beige 3,5 mt
+16767,Sombrilla aluminio c/base plastica roma beige 35 mt
 16768,Sombrilla playa premium 200 cm . . .
 16769,Gazebo roma 3x3 . . . .
 16770,Gazebo hierro azul 3 mt x 3 mt
-16771,Alimento para perro tiernitos variedad carne bol 1,5 kg
+16771,Alimento para perro tiernitos variedad carne bol 15 kg
 16772,Alimento para perro pedigree pollo/carne lat 330 grm
 16773,Alimento para perro dog chow cachorro bsa 8 kg
 16774,Alimento para gato whiskas carne bol 1 kg
 16775,Granulado sanitario absorsol premium bol 2 kg
 16776,Alimento para perro dog chow cachorro raza peq bsa 1.5 kg
 16777,Alimento para perro tiernitos original bol 3 kg
-16778,Alimento para gato gati pescado, arr y esp bsa 3 kg
+16778,Alimento para gato gati pescado arr y esp bsa 3 kg
 16779,Alimento para perro dog chow adultos bsa 1.5 kg
 16780,Alimento para gato whiskas pollo lat 340 grm
 16781,Alimento para pez shulet nro 3 est 40 grm
 16782,Granulado sanitario sani miau bol 4 kgm
 16783,Correa alpinista nacix
 16784,Alimento para gato whiskas atun y sardina bol 500 grm
-16785,Alimento para gato gati pescado, arr y esp bsa 500 grm
-16786,Alimento para perro tiernitos pollo bol 1,5 kg
+16785,Alimento para gato gati pescado arr y esp bsa 500 grm
+16786,Alimento para perro tiernitos pollo bol 15 kg
 16787,Alimento para gato gati pescado arro y esp bsa 1 kg
 16788,Alimento para perro dog chow adultos bsa 15 kg
 16789,Alimento para perro pedigree sabor carne lat 340 grm
@@ -16792,7 +16792,7 @@ id,nombre
 16791,Collar alpinista nacix
 16792,Correa pampa 30mm x 1.4mt porta bol 1 uni
 16793,Collar sasha nylon 40 cm
-16794,Alimento para perro tiernitos carne y vegetal bol 1,5 kg
+16794,Alimento para perro tiernitos carne y vegetal bol 15 kg
 16795,Alimento para gato kitkat de pescado bol 400 grm
 16796,Cepillo mister dogs plastico
 16797,Collar fluo 2301
@@ -16822,7 +16822,7 @@ id,nombre
 16821,Alimento para perro tiernitos pollo bol 3 kg
 16822,Alimento para perro pedigree cachorro sano crec. paq 1.3 kg
 16823,Espuma pulguicida baño seco pulgui y garrap. porta 250 cc
-16824,Alimento para perro raza pollo, carne y arroz paq 15 kg
+16824,Alimento para perro raza pollo carne y arroz paq 15 kg
 16825,Alimento para perro pedigree adulto carne pou 100 grm
 16826,Alimento para perro dog chow adultos bsa 8 kgm
 16827,Alimento para pajaros egran mezcla bol 500 grm
@@ -16830,7 +16830,7 @@ id,nombre
 16829,Alimento para perro odwalla cachorro bsa 8 kg
 16830,Alimento para perro raza sabor carne bsa 8 kgm
 16831,Alimento para perro tiernitos seleccion carne/veg bol 8 kg
-16832,Alimento para perro tiernitos cachorros bol 1,5 kg
+16832,Alimento para perro tiernitos cachorros bol 15 kg
 16833,Shampoo para mascotas happy dog manzana bot 1 ltr
 16834,Collar pampa mister dog mediano bol 1 uni
 16835,Snack para perro dr. zoo huesitos fwp 50 grm
@@ -16839,7 +16839,7 @@ id,nombre
 16838,Bocaditos para perro dr zoo mix tar 250 grm
 16839,Alimento para perro dog chow cachorro ra med/gra bsa 1.5 kg
 16840,Collar de ahorque sasha x 1 uni
-16841,Alimento para gato gati carne, arroz, maiz bsa 500 grm
+16841,Alimento para gato gati carne arroz maiz bsa 500 grm
 16842,Pulguicida porta pipeta cachorros bot 3 ml
 16843,Cepillo mister dogs cardinal simple
 16844,Alimento para gato kitkat de pollo bol 1 kg
@@ -16883,7 +16883,7 @@ id,nombre
 16882,Comedero sasha doble mini 1 uni
 16883,Alimento para perros kongo cachorros bsa 2.7 kgm
 16884,Almiento para perro odwalla adulto bsa 8 kg
-16885,Alimento para perro raza pollo carne, cereale y arroz bsa 3kg
+16885,Alimento para perro raza pollo carne cereale y arroz bsa 3kg
 16886,Snack para perro dr. zoo dognuts cja 250 grm
 16887,Alimento para perro pedigree razas pequeñas paq 7 kg
 16888,Hueso mister dogs nro 23 bli 2 uni
@@ -16893,7 +16893,7 @@ id,nombre
 16892,Granulado sanitario absorsol alta gama perfumado bsa 4kgm
 16893,Lavaperros babs espuma bot 250 cc
 16894,Alimento para gato 9 lives carne y leche bol 500 grm
-16895,Alimento para perro champ mix carne bol 10,1 kg
+16895,Alimento para perro champ mix carne bol 101 kg
 16896,Alimento para gato cat chow adulto antiox bsa 500 grm
 16897,Bocaditos para perros dr. zoo carne tar 250 grm
 16898,Alimento para gato cat chow vida sana antiox bsa 500 grm
@@ -16920,7 +16920,7 @@ id,nombre
 16919,Collar sasha arco iris chico
 16920,Alimento para perro pedigree adulto carne/veget paq 1.3 kg
 16921,Alimento para perro dogui carne asada y veg bsa 16.5 kg
-16922,Alimento para perro pollo,carn raza paq 9 kg
+16922,Alimento para perro pollocarn raza paq 9 kg
 16923,Bandeja sanitaria sasha 25 x 36 cm
 16924,Alimento para perro pedigree adulto carne/veget paq 2.7 kg
 16925,Alimento para gato whiskas salmon pou 85 grm
@@ -16963,7 +16963,7 @@ id,nombre
 16962,Alimento para perro dog chow adul.may.15 kg + 1.5 regalo
 16963,Comedero sasha mediano 16 cm
 16964,Cadena sasha nylon 2 mm x 100 cm
-16965,Alimento para perro raza pollo , carne, cereales y arroz 8 kg
+16965,Alimento para perro raza pollo  carne cereales y arroz 8 kg
 16966,Alimento para perro tiernitos seleccion var. carnes bol 8 kg
 16967,Alimento para gato 9 lives carnes seleccion bol 500 grm
 16968,Hueso n 56
@@ -17013,12 +17013,12 @@ id,nombre
 17012,Shampoo para mascotas babs antipulgas bot 120 cc
 17013,Alimento para perro pedigree cachorro sano creci paq 2.7 kg
 17014,Granulado sanitario ecolight bsa 2 kg
-17015,Alimento para perro raza cachorro car, cer y lec 1.5 kg
+17015,Alimento para perro raza cachorro car cer y lec 1.5 kg
 17016,Alimento para gato mizzi frutos del mar bol 3 kg
 17017,Alimento para perro dogui carne cereal y arroz bsa 3 kg
 17018,Crema de enjuague p/mascotas shinepet bot 500 cc
 17019,Cadena sasha nylon con manija 30 cm
-17020,Alimento para perro dogui carne,cereal & arroz bsa 15 kg
+17020,Alimento para perro dogui carnecereal & arroz bsa 15 kg
 17021,Snack para perro dr. zoo patitas de pollo cja 250 grm
 17022,Pulguicida babs polvo fra 80 grm
 17023,Alimento para perro dog chow adultos raza mediana bsa 3 kgm
@@ -17040,7 +17040,7 @@ id,nombre
 17039,Shampoo para mascotas babs parasiticida bot 350 cc
 17040,Alimento para gato cat chow gatitos antiox bsa 1 kg
 17041,Alimento para perro raza razas pequeñ carne paq 1.5 kg
-17042,Alimento para perro champ asado bol 10,1 kg
+17042,Alimento para perro champ asado bol 101 kg
 17043,Alimento para perro dog chow razas pequeñas bsa 1.5 kg
 17044,Alimento para perro dogui carne asada y sel veg bsa 3 kg
 17045,Alimento para gato raza pollo y leche  bol 1 kg
@@ -17104,7 +17104,7 @@ id,nombre
 17103,Aderezo knorr deshidratado hierbas al limon sob 28 grm
 17104,Ajos suaves con aceite de oliv coquet  fra 230 grm
 17105,Provenzal x kg
-17106,Sazonador knorr tomate, cebolla y morron sob 30 grm
+17106,Sazonador knorr tomate cebolla y morron sob 30 grm
 17107,Condimento para tucos y guisos alicante sob 25 grm
 17108,Sazonador knorr curry y leche de coco sob 30 grm
 17109,Tomillo x kg
@@ -17365,7 +17365,7 @@ id,nombre
 17364,Set geometria 20 cm 4 piezas
 17365,Canopla pvc angry birds 3 piso . . .
 17366,Portaminas atlantis 0.5 x 1 . . .
-17367,Compas escolar 11,5 cm. . . .
+17367,Compas escolar 115 cm. . . .
 17368,Desk mate marcadores de color x10 unid . . .
 17369,Marcador bic permanente azul bli 1 uni
 17370,Canopla 2p 48 lap new cars . . .
@@ -17399,7 +17399,7 @@ id,nombre
 17398,Crayon alba surtido cja 12 uni
 17399,Tempera albamagic max surtida 10 uni
 17400,Lapicera de pluma simball plumita bli 1 uni
-17401,Portaminas bic sunnies 0,5 mm x 2 . . .
+17401,Portaminas bic sunnies 05 mm x 2 . . .
 17402,Boligrafo km100 retrac azul/negro x3 . . .
 17403,Desk mate abrochadora no 10 c/500 broch . . .
 17404,Bolsa hello kitty 34x17x39 86252 . . .
@@ -17448,7 +17448,7 @@ id,nombre
 17447,Lapiz grafito maped hb c/ goma x 3 unid. . . .
 17448,Pluma girly freewriter . . .
 17449,Roller bic negro z4
-17450,Lapiz mecanico triclick  0,5 mm + 1 minas . . .
+17450,Lapiz mecanico triclick  05 mm + 1 minas . . .
 17451,Post it fashion 654 x 50 hjs . . .
 17452,Resaltador bic brite liner grip verde bli 1 uni
 17453,Lapices de color colorella largos 24 uni
@@ -17527,14 +17527,14 @@ id,nombre
 17526,Notas post-it x 90 hjs. colores . . .
 17527,Abrochadora maped vivo n 10 + 400 broches
 17528,Sacapuntas maped croc croc 2 filos bli 1 uni
-17529,Marcadores mini pta conic al agua,10 col . . .
+17529,Marcadores mini pta conic al agua10 col . . .
 17530,Resaltador trabi high texter verde bli 1 uni
 17531,Tijera scotch 17.7 cm . . . .
 17532,Resaltador pelikan flash naranja bli 1 uni
 17533,Resaltador trabi fluo 425 verde bli 1 uni
 17534,Liquido corrector aqua 1 uni
 17535,Resaltador brite liner grip rosa 1 uni
-17536,Boligrafo opaco fino  0,8mm azul blisterx3 . . .
+17536,Boligrafo opaco fino  08mm azul blisterx3 . . .
 17537,Marcador escolar grueso sylvapen bx12 . . .
 17538,Plastilina alba barra cja 10 uni
 17539,Adhesivo pegalba vinilico 500 grm
@@ -17613,13 +17613,13 @@ id,nombre
 17612,Martillo electrico gbh 2-20d mas adaptador
 17613,Gavetero organizador 22.5x15x5 kasse
 17614,Amoladora angular black & decker g720ar 115mm 720w
-17615,Membrana m-500 1,3kg blanca impermeabilizante suprabond
+17615,Membrana m-500 13kg blanca impermeabilizante suprabond
 17616,Latex exterior loxon blanco lat 20 ltr
 17617,Pintura latex interior- living sauco-1 lt
 17618,Juego de llaves combinadas c/ crique x 7pcs
 17619,Hidrolavadora karcher k5.700 140bar 460l/h
 17620,Taladro con percutor black & decker 10 mm tb550-ar
-17621,Poximix cemento exterior 1,250 kg
+17621,Poximix cemento exterior 1250 kg
 17622,Latex interior loxon blanco mate lat 4 ltr
 17623,Set tubos top home 3/8 mm
 17624,Cepillo skil 1555 550 w 16000 rpm
@@ -17637,7 +17637,7 @@ id,nombre
 17636,Set formones x 4pcs mango plastic y goma
 17637,Barniz sintetico sinteplast barniplast lat 4 ltr
 17638,Mecha hss black & decker acero rapido bda0500c bli 1 u 5 mm
-17639,Atornillador 3,6 v con sacacorchos b-d
+17639,Atornillador 36 v con sacacorchos b-d
 17640,Impermeabilizante acrilico emacril verde 1 kg.
 17641,Burlete espuma poliuret extra ancho marron
 17642,Amoladora angul 115mm 500w #kpag0515 top hom . .
@@ -17654,7 +17654,7 @@ id,nombre
 17653,Gavetero organizador 18.7x11.7 x4cm kasse
 17654,Destornillador top home  6 en 1 multifuncion
 17655,Soldadora gamma 165a turbo220 turbo220 mod3466g
-17656,Membrana m-500 5,2kg roja impermeabilizante suprabond
+17656,Membrana m-500 52kg roja impermeabilizante suprabond
 17657,Cinta ductos scotch azul 48mm x 18mm
 17658,Latex exterior loxon blanco lat 10 ltr
 17659,Pintura disney pizarra rojo 0.400 lts
@@ -17665,7 +17665,7 @@ id,nombre
 17664,Escalera de aluminio 4 escal top home
 17665,Hidrolavadora karcher k 3.68 120bar 420l/h
 17666,Lubricante penetrit multiuso bot 100 cc
-17667,Set de mechas concreto 3pz 6,4,8mm bda5003e b&d
+17667,Set de mechas concreto 3pz 648mm bda5003e b&d
 17668,Compresor aire hyundai hyac24d-k 24lts c/kit 3 pc
 17669,Pegamento instantaneo unipox transparente pom 25 ml
 17670,Set herramientas top home 22 pcs
@@ -17700,7 +17700,7 @@ id,nombre
 17699,Lija al agua maez gruesa 3 uni
 17700,Amoladora angular skill 11500 9345 800w
 17701,Gavetero organizador 27x15.8 x5.5cm kasse
-17702,Poximix yeso interior 1,250 kg.
+17702,Poximix yeso interior 1250 kg.
 17703,Set de herramientas black & decker hdt51-905 bli 4 pz
 17704,Afilador electrico 150w varios usos
 17705,Soldadora club sincrolamp 1600 electrica 130 amp
@@ -17805,7 +17805,7 @@ id,nombre
 17804,Hoja de lija black & decker surtidas bli 6 uni 1/3 d/hoja
 17805,Pegamento instantaneo la gotita pom 2 ml
 17806,Silicona siloc sanitarios blanco anti pom 280 grm
-17807,Membrana m-500 5,2kg blanca imperabilizante suprabond
+17807,Membrana m-500 52kg blanca imperabilizante suprabond
 17808,Sierra circular skil 5200 1200 w
 17809,Mecha concreto black & decker bli 1 uni 10 mm
 17810,Pinceleta m2 linea especial latex nro. 42
@@ -17880,7 +17880,7 @@ id,nombre
 17879,Maletin multiuso c/ruedas de aluminio   48*38*25 cm
 17880,Caja seguridad tipo libro 18x 11.5x5.4 cm
 17881,Protector 3m para piso beige chico
-17882,Grupo electrogeno top home 3500 6,5 hp 2.8 kw-
+17882,Grupo electrogeno top home 3500 65 hp 2.8 kw-
 17883,Taladro percutor 13mm 800w std 8013 stanley
 17884,Cerrojo pasador /2 llaves cruz con 2 mechas de regalo
 17885,Sierra circular gamma guia laser 1200w
@@ -17914,13 +17914,13 @@ id,nombre
 17913,Pinza universal top home 8 pulg
 17914,Taladro bosch 13 mm 600w gsb 13 re maletín
 17915,Amoladora angular top home 710w 115mm pro 10500 rpm
-17916,Membrana m-500 1,3kg roja impermeabilizante suprabond
+17916,Membrana m-500 13kg roja impermeabilizante suprabond
 17917,Hidrolavadora black & decker pw1800spl 2030psi 140bar 1800w
 17918,Latex interior loxon blanco satinado lat 10 ltr
 17919,Protector 3m bumpon redondo transparente
 17920,Mecha concreto black & decker bli 1 uni 9 mm
 17921,Sellador silicona universal pom 110 ml
-17922,Set mechas concreto x5pzas 4,5,6,8,10 bda5005e b&d
+17922,Set mechas concreto x5pzas 456810 bda5005e b&d
 17923,Cinta enmascara 18mmx50m   . .
 17924,Navaja multiuso 23 en 1 plb2017pn
 17925,Pintura para piletas andina blanco 4lts
@@ -17940,7 +17940,7 @@ id,nombre
 17939,Caja alta de herramienta 19.7 kasse
 17940,Maza top home mango de madera 1000 grm
 17941,Latex interior aspen superlavable 10l mat andina
-17942,Barras adhesiva suprabond ultra transpar 0,74x10c 100 g
+17942,Barras adhesiva suprabond ultra transpar 074x10c 100 g
 17943,Latex interior mickey mouse verde goofy 4 lts
 17944,Pintura latex interior-living mango-1 lt
 17945,Hilo prolipropileno blister prac bli 100 grm
@@ -17964,7 +17964,7 @@ id,nombre
 17963,Cemento de contacto poxi-ran sin tolueno pom 25 ml
 17964,Set  30 pzas destornilladores y punta- stanley
 17965,Gavetero plast. multifuncion-30 div.
-17966,Taladro 14,4v atornillador 2611-14,4 v-ra 2411 jb skil
+17966,Taladro 144v atornillador 2611-144 v-ra 2411 jb skil
 17967,Minisierra dremel saw max 70w vel2250 rpm con 2 accesorios
 17968,Impermeabilizante emacril muros 20 lts
 17969,Grupo electrogeno sincrolamp  lt 6500s arr m
@@ -18032,7 +18032,7 @@ id,nombre
 18031,Taladro con percutor skil 10mm con 5 mechas 1vel
 18032,Gancho mosqueton pkca001 . . .
 18033,Mecha hss black & decker acero rapido bda0150c bli 2 u 1.50mm
-18034,Latex exterior vista frentes rosa chicle bal 1,25 kg
+18034,Latex exterior vista frentes rosa chicle bal 125 kg
 18035,Pintura casablanca 10 lts exterior-interior
 18036,Maza albañil pintada 1kg c/f. de vidrio
 18037,Cemento rapido poxi-mix est 500 grm
@@ -18046,7 +18046,7 @@ id,nombre
 18045,Pinza punta 6 max steel 84-006
 18046,Espuma 3m de poliuretano spray 250cc
 18047,Discos  de lija black & decker grano grueso bli 5 uni 125 mm
-18048,Set 50 piezas black & decker c/mechas alen,puntas,
+18048,Set 50 piezas black & decker c/mechas alenpuntas
 18049,Cinta metrica global plus 3 mts- stanley
 18050,Hidrolavadora gamma 130 bar 1700w pro130
 18051,Mini sierra 400w 3300rpm 4disc caja plastica cba55 top home
@@ -18082,7 +18082,7 @@ id,nombre
 18081,Guantes de terricloth par silver shadow
 18082,Lubricante penetrit multiuso 10 funciones aer 163 grm
 18083,Pinza pico loro top home 10 pulg
-18084,Film enmascarar 3m profesional 1,8mts 22mts
+18084,Film enmascarar 3m profesional 18mts 22mts
 18085,Hidrolavadora karcher k 2.20 110bar 360l/h
 18086,Amoladora angular top home 115mm 500 watts
 18087,Cinta d/embalar transparente 48mmx37mts th . .
@@ -18208,7 +18208,7 @@ id,nombre
 18207,Cuaderno apuntes pop punk cuad 80 h . . .
 18208,Cuaderno exito verde raya 48 hojas . . .
 18209,Cuaderno exito rayado tapa dura lunares verde 48 hojas
-18210,Cuaderno 29,7cm 80 hjs mileria raya . . .
+18210,Cuaderno 297cm 80 hjs mileria raya . . .
 18211,Repuesto rivadavia rayado 48 hojas
 18212,Carpeta oficio 2 anillos 40 cm fibra color 1 un
 18213,Folios avery esc n°3 x10 unid.+4 et . . .
@@ -19507,7 +19507,7 @@ id,nombre
 19506,Muñeco titan hero thor solid . . .
 19507,Muñeco disney tigger
 19508,Juego de te con accesorios . . .
-19509,Tren electrico c/humo, luz y sonido . . .
+19509,Tren electrico c/humo luz y sonido . . .
 19510,Bloques con puzzle p/armar de mickey 50ps . . .
 19511,Walkie talkie avengers . . . .
 19512,Monster high diario magico . . . .
@@ -19670,7 +19670,7 @@ id,nombre
 19669,Muñeco figuras basica max steel . . .
 19670,Hello kitty tocador de belleza c/luz . . .
 19671,Set vehiculo const c/sonido y luc . . .
-19672,Balde chico pala,rastrillo 1 molde
+19672,Balde chico palarastrillo 1 molde
 19673,Chikimasa chikiformas p/moldear . . .
 19674,Mi primer bateria con silla . . .
 19675,Señor cara de papa . . .
@@ -19915,7 +19915,7 @@ id,nombre
 19914,Memotest infantil de la selva . . .
 19915,Radio control 1:10 lamborghi gallardo lp550 . . .
 19916,Playmobil cofre cuartel de policia . . .
-19917,Set helicoptero con policia, ambul. y bomb . . .
+19917,Set helicoptero con policia ambul. y bomb . . .
 19918,Puzzle starwars individual . . .
 19919,Juego de mesa trust financiero . . .
 19920,Cuatriciclo kawasaki escala 1.12
@@ -19965,10 +19965,10 @@ id,nombre
 19964,Salmon ahumado rosado st andrews pou 100 grm
 19965,Farfalej tostado  yanovsky  est 200 grm
 19966,Diccionario. h.collins pocket ingles .
-19967,Libro pideme lo que quieras, ahora . . .
+19967,Libro pideme lo que quieras ahora . . .
 19968,Libro outlet la era de los culatas . . .
 19969,Libro la merienda de bella - cuento . . .
-19970,Libro charles street , n° 44 . . .
+19970,Libro charles street  n° 44 . . .
 19971,Libro princesa stick brillantes . . .
 19972,Libro after 4 . . .
 19973,Libro outlet el rapto de la bella durmient . . .
@@ -20029,7 +20029,7 @@ id,nombre
 20028,Libro outlet secretos de familia . . .
 20029,Libro la sombra nva edicion . . .
 20030,Libro doña petrona 4 masitas y gall . . .
-20031,Libro monster high, amigas eternas . . .
+20031,Libro monster high amigas eternas . . .
 20032,Libro madame bovary . . . .
 20033,Libro col los woops jumbo para col . . .
 20034,Libro almanegra tril del perdon ii . . .
@@ -20065,7 +20065,7 @@ id,nombre
 20064,Libro buscando a alaska . . .
 20065,Libro col. activados - 2 titulos . . .
 20066,Libro pequesaurio . . . .
-20067,Libro swag, el libro de alejo igoa . . .
+20067,Libro swag el libro de alejo igoa . . .
 20068,Libro princess top just dance vio . . .
 20069,Libro mente agil . . .
 20070,Libro escuchando al corazón . . .
@@ -20085,7 +20085,7 @@ id,nombre
 20084,Libro outlet los planes del crimen . . .
 20085,Libro col. carrusel disney 4 titul . . .
 20086,Libro angry birds chuck . . .
-20087,Libro outlet outlet joseph anton, memoria . . .
+20087,Libro outlet outlet joseph anton memoria . . .
 20088,Libro col cocineros arg 4 titulos . . .
 20089,Libro avent. pablo busca miel . . .
 20090,Libro monster high 11 noche de ch . . .
@@ -20098,7 +20098,7 @@ id,nombre
 20097,Libro doña petrona 16 past. festi . . .
 20098,Libro outlet juego de citas ds especial . . .
 20099,Libro 168 trucos de feng shui . . .
-20100,Libro avengers, la era de ultron1 . . .
+20100,Libro avengers la era de ultron1 . . .
 20101,Libro 7 cuentos frozen . . .
 20102,Libro adventure time llego de la no . . .
 20103,Libro outlet besar al sapo . . .
@@ -20106,7 +20106,7 @@ id,nombre
 20105,Libro princesa para colorear y act . . .
 20106,Libro de imágenes en ingles azul . . .
 20107,Libro ella la elefan ta . . .
-20108,Libro desendants, ac tividades . . .
+20108,Libro desendants ac tividades . . .
 20109,Libro fracasos exitosos -zeta . . .
 20110,Libro juguemos pintando . . .
 20111,Libro puedo superarm -b de bolsillo . . .
@@ -20117,14 +20117,14 @@ id,nombre
 20116,Libro outlet manual del mesias . . .
 20117,Libro frozen aventu. congelada t/du . . .
 20118,Libro outlet heroes de nuestro tiempo . . .
-20119,Relato de un naufrago, g.g. marquez . .
+20119,Relato de un naufrago g.g. marquez . .
 20120,Libro outlet el ultimo coyote . . .
 20121,Libro cuentos para chicas imperf. . . .
 20122,Libro la cenicienta cuentos con . . .
 20123,Libro tormentas del pasado bolsill . . .
 20124,Libro ben 10 jumbo colorea y jueg . . .
 20125,Libro outlet la voz del diablo . . .
-20126,Libro suma de los dias, la-debolsillo . . .
+20126,Libro suma de los dias la-debolsillo . . .
 20127,Libro hocus pocus hotel 1 a trav . . .
 20128,Libro de los nombres del bebe nena . . .
 20129,Libro col. escenario en la escuela . . .
@@ -20167,7 +20167,7 @@ id,nombre
 20166,Col. soy un dinosaurio 4 titulos . . .
 20167,Libro outlet yoga y espiritualidad . . .
 20168,Clasico disney mickey mouse . . .
-20169,Libro arrasa con tod estampa, escri . . .
+20169,Libro arrasa con tod estampa escri . . .
 20170,Libro caroon pop vamos a colore . . .
 20171,Libro sexo ¿y ahora que hago? bolsillo . . .
 20172,Libro soy un pajaro . . .
@@ -20247,13 +20247,13 @@ id,nombre
 20246,Libro 20.000 leguas de viaje subma . . .
 20247,Libro col. libro de garabatos . . .
 20248,Libro outlet codigo enigma criptonomicon1 . . .
-20249,Libro inteligen emocional, la - zeta rustica . . .
+20249,Libro inteligen emocional la - zeta rustica . . .
 20250,Libro coleccion magicolor . . .
 20251,Libro marvel atrapad en las fauces . . .
 20252,Bloc p colorear y stickers 3d cuerpo humano . . .
 20253,Libro inventa un her oe spider man . . .
 20254,Libro un dia en¿ 2 titulos . . .
-20255,Libro en la selva, l ibro con sonid . . .
+20255,Libro en la selva l ibro con sonid . . .
 20256,Libro encuentros - booket . . .
 20257,Libro de los secreto disney: bella . . .
 20258,Libro zou-mi primera valija . . .
@@ -20262,7 +20262,7 @@ id,nombre
 20261,Libro angry birds los blues . . .
 20262,Libro hocus pocus hotel 4 la som . . .
 20263,Coleccion mini titeres 4 titulos . . .
-20264,Libro col, kylie jea n . . .
+20264,Libro col kylie jea n . . .
 20265,Libro 50 sombras mas oscuras . . .
 20266,Libro ahi va el camion de bomberos
 20267,Libro heroe discreto bolsillo . . .
@@ -20294,7 +20294,7 @@ id,nombre
 20293,Libro el profesor de bolsillo . . .
 20294,Coleccion chispitas . . . .
 20295,Libro quererme mas- nueva ed. . . .
-20296,Libro inocencia, sab er y asombro . . .
+20296,Libro inocencia sab er y asombro . . .
 20297,Libro outlet inocencia tragica . . .
 20298,Libro outlet mi libertad por un novio . . .
 20299,Libro pintemos con henry y jake . . .
@@ -20398,8 +20398,8 @@ id,nombre
 20397,Libro caperucita roja - pop up . . .
 20398,Libro el libro d los nombres d bebe . . .
 20399,Libro cuentos para exploradores . . .
-20400,Libro desendants, diario del mal . . .
-20401,Libro ay, amor . . . .
+20400,Libro desendants diario del mal . . .
+20401,Libro ay amor . . . .
 20402,Libro col. mini granja . . .
 20403,Libro numero cero . . .
 20404,Libro outlet la duquesa y el capitan . . .
@@ -20408,7 +20408,7 @@ id,nombre
 20407,Libro outlet rupturas . . . .
 20408,Libro animalitos aviones . . .
 20409,Libro outlet colocados . . . .
-20410,Libro en la granja, libro con soni . . .
+20410,Libro en la granja libro con soni . . .
 20411,Libro palace pets el poni real . . .
 20412,Libro mucho gusto cupcakes p fie . . .
 20413,Libro josefa . . . .
@@ -20447,12 +20447,12 @@ id,nombre
 20446,Libro pasiones toxic nueva edi . . .
 20447,Libro pinto princesas 2 . . .
 20448,Libro gumball libro para colorear . . .
-20449,Libro peppa, un gran dia en la . . .
+20449,Libro peppa un gran dia en la . . .
 20450,Libro el caballero de los siete r . . .
 20451,Libro outlet outlet exilio . . . .
 20452,Libro princess top casual rosa . . .
 20453,Libro valija barbie amigas reales . . .
-20454,Libro adulterio , . . .
+20454,Libro adulterio  . . .
 20455,Bolsa de dormir top camping junior 140 x 60 cm
 20456,Banqueta alum. camping pleg. 40x35x42 cm. . . .
 20457,Farol c/bateria recargable 12v control remoto . . .
@@ -20688,12 +20688,12 @@ id,nombre
 20687,Mancuerna neoprene 1/2 kg . . .
 20688,Pico universal x 3 . . . .
 20689,Set mancuernas cromadas top fitness . . .
-20690,Metegol kids soccer 90x45,5x735cm . . .
+20690,Metegol kids soccer 90x455x735cm . . .
 20691,Mesa billar . . . .
 20692,Tobillera 1 kg c/ cierre . . . .
 20693,Mancuerna plastica 3 kg . . .
 20694,Set 2 paletas ping pong c/2 bolas . . .
-20695,Tobillera 0,5kg c/ciere . . . .
+20695,Tobillera 05kg c/ciere . . . .
 20696,Mesa ping pong 2002 . . . .
 20697,Cancha de voley red estructura y cinta demarc . . .
 20698,Caramañola termica   . . .

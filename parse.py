@@ -1,5 +1,6 @@
 import csv
-from time import sleep
+# from time import sleep
+
 
 def parse_to_dict(file):
     """Takes a csv file and parses it into a
@@ -21,8 +22,9 @@ def prices_to_dict(file, supermarket_id, product_id):
         rows = csv.reader(f)
         next(rows)
         for row in rows:
+            if len(row) < 4:
+                raise TypeError('El csv debe tener 4 campos.')
             if row[0] == supermarket_id and row[1] == product_id:
-                print(row)
-                sleep(0.1)
                 dic[row[2]] = row[3]
     return dic
+

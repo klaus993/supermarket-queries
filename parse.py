@@ -39,20 +39,46 @@ def prices_to_dict(file):
     return dic
 
 
+def get_super(row):
+    return int(row[0])
+
+
+def get_prod(row):
+    return int(row[1])
+
+
+def get_period(row):
+    return int(row[2])
+
+
+def get_price(row):
+    return float(row[3])
+
+
+def initialize_reader(file):
+    rows = csv.reader(file)
+    next(rows)
+    return rows
+
+
 def initialize_prices_dict(file):
     with open(file) as f:
         dic = {}
-        rows = csv.reader(f)
-        next(rows)
+        rows = initialize_reader(f)
         for row in rows:
-            if row[2] in dic.keys():
+            if get_period(row) in dic.keys():
                 break
-            dic[row[2]] = [{}]
+            dic[get_period(row)] = [{}, {}]
         f.seek(0)
         next(rows)
         for i in range(1, 4):
             for row in rows:
-                dic[row[2]][0][i] = {}
+                dic[get_period(row)][0][i] = {}
+            f.seek(0)
+            next(rows)
+        for i in range(1, 20737):
+            for row in rows:
+                dic[get_period(row)][1][i] = {}
             f.seek(0)
             next(rows)
     return dic
@@ -61,12 +87,10 @@ def initialize_prices_dict(file):
 def insert_prices(file):
     dic = initialize_prices_dict(file)
     with open(file) as f:
-        rows = csv.reader(f)
-        next(rows)
-        try:
-            for row in rows:
-                dic[row[2]][0][row[0]][row[1]] = row[3]
-        except KeyError:
-            print('Key Error')
+        rows = initialize_reader(f)
+        for row in rows:
+            dic[get_period(row)][0][get_super(row)][get_prod(row)] = get_price(row)
+        for row in rows:
+            dic[get_period(row)][1][get_prod(row)][get_super(row)] = get_price(row)
     return dic
 

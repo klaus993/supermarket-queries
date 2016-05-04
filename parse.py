@@ -61,7 +61,7 @@ def initialize_reader(file):
     return rows
 
 
-def initialize_prices_dict(file):
+def initialize_and_insert_prices(file):
     dic = {}
     with open(file) as f:
         rows = initialize_reader(f)
@@ -72,14 +72,6 @@ def initialize_prices_dict(file):
                 dic[get_period(row)][0][get_super(row)] = {}
             if get_prod(row) not in dic[get_period(row)][1].keys():
                 dic[get_period(row)][1][get_prod(row)] = {}
-    return dic
-
-
-def initialize_and_insert_prices(file):
-    dic = initialize_prices_dict(file)
-    with open(file) as f:
-        rows = initialize_reader(f)
-        for row in rows:
             dic[get_period(row)][0][get_super(row)][get_prod(row)] = get_price(row)
             dic[get_period(row)][1][get_prod(row)][get_super(row)] = get_price(row)
     return dic

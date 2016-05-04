@@ -39,8 +39,8 @@ def prices_to_dict(file):
     return dic
 
 
-def func():
-    with open('precios.csv') as f:
+def initialize_prices_dict(file):
+    with open(file) as f:
         dic = {}
         rows = csv.reader(f)
         next(rows)
@@ -58,12 +58,15 @@ def func():
     return dic
 
 
-def func1():
-    dic = func()
-    with open('precios.csv') as f:
+def insert_prices(file):
+    dic = initialize_prices_dict(file)
+    with open(file) as f:
         rows = csv.reader(f)
         next(rows)
-        for row in rows:
-            dic[row[2]][0][row[0]][row[1]] = row[3]
+        try:
+            for row in rows:
+                dic[row[2]][0][row[0]][row[1]] = row[3]
+        except KeyError:
+            print('Key Error')
     return dic
 

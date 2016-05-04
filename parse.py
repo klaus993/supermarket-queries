@@ -39,7 +39,7 @@ def prices_to_dict(file):
     return dic
 
 
-def f():
+def func():
     with open('precios.csv') as f:
         dic = {}
         rows = csv.reader(f)
@@ -50,9 +50,20 @@ def f():
             dic[row[2]] = [{}]
         f.seek(0)
         next(rows)
-        for i in range(1,4):
+        for i in range(1, 4):
             for row in rows:
                 dic[row[2]][0][i] = {}
             f.seek(0)
             next(rows)
     return dic
+
+
+def func1():
+    dic = func()
+    with open('precios.csv') as f:
+        rows = csv.reader(f)
+        next(rows)
+        for row in rows:
+            dic[row[2]][0][row[0]][row[1]] = row[3]
+    return dic
+

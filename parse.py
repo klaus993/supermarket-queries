@@ -71,26 +71,20 @@ def initialize_prices_dict(file):
             dic[get_period(row)] = [{}, {}]
         f.seek(0)
         next(rows)
-        for i in range(1, 4):
-            for row in rows:
-                dic[get_period(row)][0][i] = {}
-            f.seek(0)
-            next(rows)
-        for i in range(1, 20737):
-            for row in rows:
-                dic[get_period(row)][1][i] = {}
-            f.seek(0)
-            next(rows)
+        for row in rows:
+            if get_super(row) not in dic[get_period(row)][0].keys():
+                dic[get_period(row)][0][get_super(row)] = {}
+            if get_prod(row) not in dic[get_period(row)][1].keys():
+                dic[get_period(row)][1][get_prod(row)] = {}
     return dic
 
 
-def insert_prices(file):
+def initialize_and_insert_prices(file):
     dic = initialize_prices_dict(file)
     with open(file) as f:
         rows = initialize_reader(f)
         for row in rows:
             dic[get_period(row)][0][get_super(row)][get_prod(row)] = get_price(row)
-        for row in rows:
             dic[get_period(row)][1][get_prod(row)][get_super(row)] = get_price(row)
     return dic
 

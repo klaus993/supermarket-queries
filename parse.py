@@ -68,7 +68,7 @@ def create_prices_dict(file):
     Returns a dictionary.
     """
     dic = dict()
-    with open(file) as f:
+    with open(file) as f: 
         rows = get_reader(f)
         for row in rows:
             if get_period(row) not in dic.keys():

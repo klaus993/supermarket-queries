@@ -1,5 +1,4 @@
 import csv
-from time import sleep
 
 
 CSV_ERROR = 'csv must have {} fields.'
@@ -22,7 +21,7 @@ def to_dict(file):
         for row in rows:
             if len(row) != n:
                 raise TypeError(CSV_ERROR.format(n))
-            dic[row[0]] = row[1]
+            dic[int(row[0])] = row[1]
     return dic
 
 
@@ -68,7 +67,7 @@ def create_prices_dict(file):
     Returns a dictionary.
     """
     dic = dict()
-    with open(file) as f: 
+    with open(file) as f:
         rows = get_reader(f)
         for row in rows:
             if get_period(row) not in dic.keys():

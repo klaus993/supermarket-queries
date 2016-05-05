@@ -1,5 +1,5 @@
 from constants import *
-from time import sleep
+# from time import sleep
 
 
 def get_inflation(price_0, price_1):
@@ -39,4 +39,13 @@ def get_average_inflation(start, end, sup_id):
     acum = 0
     for i in PRODUCTS.keys():
         acum += get_product_inflation(start, end, i, sup_id)
-    return acum / max(PRODUCTS.keys())
+    return acum / len(PRODUCTS.keys())
+
+
+def get_best_price(period, prod_id):
+    """
+    """
+    dic = PRICES[period][1][prod_id]
+    min_val = min(dic.values())
+    result = [key for key in dic if dic[key] == min_val]
+    return min_val, result

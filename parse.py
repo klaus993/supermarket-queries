@@ -79,14 +79,3 @@ def create_prices_dict(file):
             dic[get_period(row)][0][get_super(row)][get_prod(row)] = get_price(row)
             dic[get_period(row)][1][get_prod(row)][get_super(row)] = get_price(row)
     return dic
-
-
-def create_periods_list(file):
-    list = []
-    with open(file) as f:
-        rows = get_reader(f)
-        for row in rows:
-            if get_period(row) not in list:
-                list.append(get_period(row))
-    list.reverse()
-    return list

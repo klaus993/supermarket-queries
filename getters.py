@@ -1,5 +1,5 @@
+# from parse import *
 from constants import *
-# from time import sleep
 
 
 def get_inflation(price_0, price_1):
@@ -9,43 +9,50 @@ def get_inflation(price_0, price_1):
     return 100 * (price_1 - price_0) / price_0
 
 
-def get_prod_price(period, prod_id):
-    """Takes a period and a product as parameters (int).
+def get_prod_price(period, prod_id, prices):
+    """Takes a period, a product id (int) and the list of prices (dic) as parameters.
     Returns a dictionary with the price of that product on that period for all supermarkets.
     (supermarket id (int) as keys, prices (float) as values)
     """
-    if period not in PRICES.keys():
+    if period not in prices.keys():
         raise ValueError('period not found.')
-    if prod_id not in PRICES[period][1].keys():
+    if prod_id not in prices[period][1].keys():
         raise ValueError('product id not found.')
-    return PRICES[period][1][prod_id]
+    return prices[period][1][prod_id]
 
 
-def get_product_inflation(start, end, prod_id, sup_id):
+def get_prod_inflation(start, end, prod_id, sup_id, prices):
     """
     """
-    if sup_id not in PRICES[start][0].keys():
+    if sup_id not in prices[start][0].keys():
         raise ValueError('supermarket id not found.')
     if start >= end:
         raise ValueError('end must be a later date than start.')
-    price_0 = get_prod_price(start, prod_id)[sup_id]
-    price_1 = get_prod_price(end, prod_id)[sup_id]
+    price_0 = get_prod_price(start, prod_id, prices)[sup_id]
+    price_1 = get_prod_price(end, prod_id, prices)[sup_id]
     return get_inflation(price_0, price_1)
 
 
-def get_average_inflation(start, end, sup_id):
-    """
+def get_sup_inflation(start, end, sup_id, products, prices):
+    """Takes a period (starting and ending, ints), a supermarket id (int), the list of prices and products (dic) as parameters. Returns the average inflation for that period and that supermarket.
     """
     acum = 0
-    for i in PRODUCTS.keys():
-        acum += get_product_inflation(start, end, i, sup_id)
-    return acum / len(PRODUCTS.keys())
+    for i in products.keys():
+        acum += get_prod_inflation(start, end, i, sup_id, prices)
+    return acum / len(products.keys())
 
 
 def get_best_price(period, prod_id):
     """
     """
-    dic = PRICES[period][1][prod_id]
+    dic = products[period][1][prod_id]
     min_val = min(dic.values())
     result = [key for key in dic if dic[key] == min_val]
     return min_val, result
+
+
+def get_average_inflation(start, end, products, prices, supers):
+    result = int()
+    for sup_id in supers:
+        result += get_sup_inflation(start, end, sup_id, products, prices)
+    return result / len(supers)

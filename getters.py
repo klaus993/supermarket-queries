@@ -15,21 +15,22 @@ def get_prod_price(period, prod_id, prices):
     (supermarket id (int) as keys, prices (float) as values)
     """
     if period not in prices.keys():
-        raise ValueError('period not found.')
+        raise ValueError('período no encontrado.')
     if prod_id not in prices[period][1].keys():
-        raise ValueError('product id not found.')
+        raise ValueError('producto no encontrado')
     return prices[period][1][prod_id]
 
 
 def get_prod_inflation(start, end, prod_id, sup_id, prices):
     """
     """
-    if sup_id not in prices[start][0].keys():
-        raise ValueError('supermarket id not found.')
+    try:
+        price_0 = get_prod_price(start, prod_id, prices)[sup_id]
+        price_1 = get_prod_price(end, prod_id, prices)[sup_id]
+    except KeyError:
+        raise ValueError('supermercado no encontrado.')
     if start >= end:
-        raise ValueError('end must be a later date than start.')
-    price_0 = get_prod_price(start, prod_id, prices)[sup_id]
-    price_1 = get_prod_price(end, prod_id, prices)[sup_id]
+        raise ValueError('el fin tiene que ser luego del inicio.')
     return get_inflation(price_0, price_1)
 
 

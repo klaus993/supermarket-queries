@@ -43,13 +43,13 @@ def get_sup_inflation(start, end, sup_id, products, prices):
     return acum / len(products.keys())
 
 
-def get_best_price(period, prod_id):
+def get_best_price(period, prod_id, prices):
     """
     """
-    dic = products[period][1][prod_id]
+    dic = prices[period][1][prod_id]
     min_val = min(dic.values())
-    result = [key for key in dic if dic[key] == min_val]
-    return min_val, result
+    supers = [key for key in dic if dic[key] == min_val]
+    return min_val, supers
 
 
 def get_average_inflation(start, end, products, prices, supers):

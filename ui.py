@@ -1,7 +1,10 @@
 from getters import *
+from constants import START, END
 
 
 def press_to_continue():
+    """Asks input for the user to pass, used for a pause after results are shown.
+    """
     input('\nPresiona ENTER para continuar')
 
 
@@ -126,7 +129,7 @@ def print_menu(menu):
     print('\nMenú principal')
     print('------')
     for option in menu:
-        print('{}. {}'.format(option, MENU[option]))
+        print('{}. {}'.format(option, menu[option]))
     print('------')
 
 

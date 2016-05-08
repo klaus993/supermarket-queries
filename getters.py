@@ -1,5 +1,4 @@
 from parse import *
-from constants import *
 
 
 def get_inflation(price_0, price_1):
@@ -22,7 +21,8 @@ def get_prod_price(period, prod_id, prices):
 
 
 def get_prod_inflation(start, end, prod_id, sup_id, prices):
-    """
+    """Takes a period (starting and ending, ints), a prod id and a sup id (ints) and the list of prices as parameters.
+    Returns the given product inflation rate for that period and that supermarket.
     """
     try:
         price_0 = get_prod_price(start, prod_id, prices)[sup_id]
@@ -44,7 +44,8 @@ def get_sup_inflation(start, end, sup_id, products, prices):
 
 
 def get_best_price(period, prod_id, prices):
-    """
+    """Takes a period (int), a prod id (int) and the list of prices (dict) as parameters.
+    Returns a tuple containing the best price value (float) in the [0] position, and a list of super ids (int) containing the supermarkets that offer that value in that period.
     """
     dic = prices[period][1][prod_id]
     min_val = min(dic.values())
@@ -53,6 +54,9 @@ def get_best_price(period, prod_id, prices):
 
 
 def get_average_inflation(start, end, products, prices, supers):
+    """Takes periods start, end (ints), and three dicts (products, prices and supers)
+    Returns the general average inflation rate (percentage) (float).
+    """
     result = int()
     for sup_id in supers:
         result += get_sup_inflation(start, end, sup_id, products, prices)

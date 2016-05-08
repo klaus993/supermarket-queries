@@ -1,7 +1,7 @@
 import csv
+from constants import CSV_ERROR
 
 
-CSV_ERROR = 'csv must have {} fields.'
 # row[0] = id_supermercado
 # row[1] = id_producto
 # row[2] = periodo
@@ -13,16 +13,20 @@ def to_dict(file):
     dictionary. Pre condition: the csv file has
     to have only two fields. Returns the dictionary.
     """
-    dic = dict()
-    n = 2
-    with open(file) as f:
-        rows = csv.reader(f)
-        next(rows)
-        for row in rows:
-            if len(row) != n:
-                raise TypeError(CSV_ERROR.format(n))
-            dic[int(row[0])] = row[1]
-    return dic
+    try:
+        dic = dict()
+        n = 2
+        with open(file) as f:
+            rows = csv.reader(f)
+            next(rows)
+            for row in rows:
+                if len(row) != n:
+                    raise TypeError(CSV_ERROR.format(n))
+                dic[int(row[0])] = row[1]
+        return dic
+    except OSError:
+        print('Archivo de supermercados o de productos no encontrado.')
+        exit()
 
 
 def get_super(row):
@@ -66,16 +70,20 @@ def create_prices_dict(file):
     """Gets a csv file with 4 fields.
     Returns a dictionary.
     """
-    dic = dict()
-    with open(file) as f:
-        rows = get_reader(f)
-        for row in rows:
-            if get_period(row) not in dic.keys():
-                dic[get_period(row)] = [{}, {}]
-            if get_super(row) not in dic[get_period(row)][0].keys():
-                dic[get_period(row)][0][get_super(row)] = {}
-            if get_prod(row) not in dic[get_period(row)][1].keys():
-                dic[get_period(row)][1][get_prod(row)] = {}
-            dic[get_period(row)][0][get_super(row)][get_prod(row)] = get_price(row)
-            dic[get_period(row)][1][get_prod(row)][get_super(row)] = get_price(row)
-    return dic
+    try:
+        dic = dict()
+        with open(file) as f:
+            rows = get_reader(f)
+            for row in rows:
+                if get_period(row) not in dic.keys():
+                    dic[get_period(row)] = [{}, {}]
+                if get_super(row) not in dic[get_period(row)][0].keys():
+                    dic[get_period(row)][0][get_super(row)] = {}
+                if get_prod(row) not in dic[get_period(row)][1].keys():
+                    dic[get_period(row)][1][get_prod(row)] = {}
+                dic[get_period(row)][0][get_super(row)][get_prod(row)] = get_price(row)
+                dic[get_period(row)][1][get_prod(row)][get_super(row)] = get_price(row)
+        return dic
+    except OSError:
+        print('Archivo de precios no encontrado.')
+        exit()

@@ -69,18 +69,20 @@ def ask_prod(products):
     """
     string = str()
     while not string:
-        string = input('Ingrese el nombre de un producto: ')
+        string = input('Ingrese el nombre de un producto: ').lower()
     for key in products:
-        if string in products[key]:
+        if string in products[key].lower():
             loop = True
             while loop:
                 is_prod = input('\n [{}]\n¿Es este el producto deseado? [s/n]: '.format(products[key]))
-                if is_prod == 's' or is_prod == 'S':
+                if is_prod.lower() == 's':
                     return key
-                if is_prod != 'n' and is_prod != 'N':
+                if is_prod.lower() != 'n':
                     print('\nOpción no reconocida. Vuelva a ingresar.')
                 else:
                     loop = False
+        if string == 'atras':
+            return 'atras'
 
 
 def prod_inflation(supers, products, prices):

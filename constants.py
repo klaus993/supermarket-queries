@@ -1,3 +1,4 @@
 START = 'inicio'
 END = 'fin'
-CSV_ERROR = 'csv must have {} fields.'
+PARSE_ERROR = 'Hubo un error al procesar el archivo {}'
+NOT_FOUND = 'Archivo {} no encontrado.'

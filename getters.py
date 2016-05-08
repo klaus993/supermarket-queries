@@ -1,4 +1,4 @@
-# from parse import *
+from parse import *
 from constants import *
 
 

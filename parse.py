@@ -85,7 +85,7 @@ def get_reader(file):
 
 
 def create_prices_dict(file):
-    """Gets a csv file with 4 fields.
+    """Gets a csv file with 4 fields. Creates the prices dict.
     Returns a dictionary.
     If the file is not found, catches FileNotFound error, informs the user and exits.
     If the file has not got 4 fields in any line, catches the error, informs the user and exits.

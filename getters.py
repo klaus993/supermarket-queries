@@ -12,6 +12,7 @@ def get_prod_price(period, prod_id, prices):
     """Takes a period, a product id (int) and the list of prices (dic) as parameters.
     Returns a dictionary with the price of that product on that period for all supermarkets.
     (supermarket id (int) as keys, prices (float) as values)
+    If the period or product does not exist, raises a ValueError.
     """
     if period not in prices.keys():
         raise ValueError('período no encontrado.')
@@ -23,6 +24,8 @@ def get_prod_price(period, prod_id, prices):
 def get_prod_inflation(start, end, prod_id, sup_id, prices):
     """Takes a period (starting and ending, ints), a prod id and a sup id (ints) and the list of prices as parameters.
     Returns the given product inflation rate for that period and that supermarket.
+    If the dict search raises a KeyError, it catches the error and raises a ValueError.
+    If the starting period is a later date than the ending, it raises a ValueError.
     """
     try:
         price_0 = get_prod_price(start, prod_id, prices)[sup_id]

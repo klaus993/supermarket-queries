@@ -1,36 +1,42 @@
 from getters import *
-from constants import START, END
+from constants import START, END, SYNTAX_ERROR
 
 
 def press_to_continue():
     """Asks input for the user to pass, used for a pause after results are shown.
     """
-    input('\nPresiona ENTER para continuar')
+    input('\nPresione ENTER para continuar')
 
 
 def convert_period(period):
-    """Converts user entered periods to the corresponding dict keys
+    """Converts user entered periods to the corresponding dict keys.
+    If the syntax is incorrect, it raises a ValueError.
     """
     if len(period) != 7 or period[2] != '-':
-        raise ValueError('sintaxis incorrecta (MM-AAAA).')
+        raise ValueError(SYNTAX_ERROR)
     return period[3:] + period[:2]
 
 
 def ask_and_convert(prices, string):
-    """Asks the user for a starting and an ending period and returns the converted periods as a tuple.
+    """Gets the prices dict and a string (start or end) as parameters.
+    Asks the user for a starting and an ending period and returns the converted periods as a tuple.
     """
     try:
         period = int(convert_period(input('Ingrese mes y año de {}: '.format(string))))
     except ValueError:
-        raise ValueError('período no encontrado.')
-    if period not in prices.keys():
-        raise ValueError('período no encontrado.')
+        raise ValueError(SYNTAX_ERROR)
+    try:
+        if period not in prices.keys():
+            raise ValueError('período no encontrado.')
+    except ValueError:
+        raise ValueError('sintaxis incorrecta (MM-AAAA).')
     return period
 
 
 def ask_average_inflation(supers, products, prices):
     """Gets three dics as parameters (products, prices and supers).
-    Asks the user for a period to print the average inflation rate. If the periods are not in the dict, the function raises an exception.
+    Asks the user for a period to print the average inflation rate.
+    If a ValuError is raised, the function catches it and prints the error, then it asks for user input again.
     """
     enter_loop = True
     while enter_loop:
@@ -47,6 +53,7 @@ def ask_average_inflation(supers, products, prices):
 def ask_sup_inflation(supers, products, prices):
     """Gets three dics as parameters (products, prices and supers).
     Asks the user for a period to print all the supermarket's inflation rate in three different lines.
+    If a ValuError is raised, the function catches it and prints the error, then it asks for user input again.
     """
     enter_loop = True
     while enter_loop:
@@ -63,7 +70,8 @@ def ask_sup_inflation(supers, products, prices):
 
 
 def ask_prod(products):
-    """Asks the user for a product. Suggests products according to the user input.
+    """Takes the products dict as a parameter.
+    Asks the user for a product. Suggests products according to the user input.
     Asks the user if the displayed product is correct. If it is, returns the product_id.
     If it's not, returns None.
     """
@@ -86,7 +94,9 @@ def ask_prod(products):
 
 
 def prod_inflation(supers, products, prices):
-    """
+    """Gets three dicts as parameters. Asks the user for a starting and an ending period.
+    Asks the user for a product. Prints the inflation rate for that product and all supermarkets.
+    If a ValuError is raised, the function catches it and prints the error, then it asks for user input again.
     """
     enter_loop = True
     while enter_loop:
@@ -108,7 +118,9 @@ def prod_inflation(supers, products, prices):
 
 
 def best_price(supers, products, prices):
-    """
+    """Gets three dicts as parameters. Asks the user for a single period. Then asks the user for a product.
+    Prints the best price for that product in that period, and the name(s) of the supermarket(s) that offer that.
+    If a ValuError is raised, the function catches it and prints the error, then it asks for user input again.
     """
     enter_loop = True
     while enter_loop:
@@ -126,7 +138,7 @@ def best_price(supers, products, prices):
 
 
 def print_menu(menu):
-    """
+    """Given a menu (as a dict) prints its options in different lines.
     """
     print('\nMenú principal')
     print('------')
@@ -136,7 +148,10 @@ def print_menu(menu):
 
 
 def interactive_menu(supers, products, prices):
-    """
+    """Takes three dicts as parameters. Creates a menu as a dict (options as keys, descriptions as values).
+    Prints the menu and asks the user for a choice. Given the choice, executes the corresponding function.
+    If the choice is 5, exits the loop. If the choice is not in the menu, prints a message and lets the user choose again.
+    After the choice, if a ValueError is raise, it catches it and prints the error, then it asks for user input again.
     """
     menu = {1: 'Inflación por supermercado',
             2: 'Inflación por producto',

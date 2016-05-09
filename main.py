@@ -1,5 +1,6 @@
 from ui import *
 from time import sleep
+from parse import *
 
 
 def main():
@@ -17,7 +18,7 @@ def main():
         except (KeyboardInterrupt, EOFError):
             try:
                 print('\n\nVolviendo al menú principal...')
-                sleep(0.5)
+                sleep(0.4)
             except (KeyboardInterrupt, EOFError):  # In case any of this exceptions is raised during the 0.5 sleep
                 continue
 

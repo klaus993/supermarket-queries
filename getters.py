@@ -35,7 +35,8 @@ def get_prod_inflation(start, end, prod_id, sup_id, prices):
 
 
 def get_sup_inflation(start, end, sup_id, products, prices):
-    """Takes a period (starting and ending, ints), a supermarket id (int), the list of prices and products (dic) as parameters. Returns the average inflation for that period and that supermarket.
+    """Takes a period (starting and ending, ints), a supermarket id (int), the list of prices and products (dic) as parameters.
+    Returns the average inflation for that period and that supermarket.
     """
     acum = int()
     for prod_id in products:
@@ -45,7 +46,8 @@ def get_sup_inflation(start, end, sup_id, products, prices):
 
 def get_best_price(period, prod_id, prices):
     """Takes a period (int), a prod id (int) and the list of prices (dict) as parameters.
-    Returns a tuple containing the best price value (float) in the [0] position, and a list of super ids (int) containing the supermarkets that offer that value in that period.
+    Returns a tuple containing the best price value (float) in the [0] position, and a list
+    of super ids (int) containing the supermarkets that offer that value in that period.
     """
     dic = prices[period][1][prod_id]
     min_val = min(dic.values())
